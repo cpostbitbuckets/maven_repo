@@ -4,5 +4,5 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.kauailabs.navx</groupId>
   <artifactId>navx</artifactId>
-  <version>2018.1.0-4183</version>
+  <version>2018.4.1-4183</version>
 </project>
