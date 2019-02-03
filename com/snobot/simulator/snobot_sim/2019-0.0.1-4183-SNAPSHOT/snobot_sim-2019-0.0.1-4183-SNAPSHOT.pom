@@ -3,6 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.snobot.simulator</groupId>
-  <artifactId>snobot_sim_gui</artifactId>
-  <version>2019-0.0.1-4183</version>
+  <artifactId>snobot_sim</artifactId>
+  <version>2019-0.0.1-4183-SNAPSHOT</version>
+  <packaging>pom</packaging>
 </project>
