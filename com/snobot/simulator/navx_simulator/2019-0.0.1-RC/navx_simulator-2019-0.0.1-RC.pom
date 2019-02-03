@@ -3,10 +3,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.snobot.simulator</groupId>
-  <artifactId>snobot_sim_jni</artifactId>
-  <version>2019-0.0.1-4183-SNAPSHOT</version>
-<<<<<<< HEAD
-  <packaging>pom</packaging>
-=======
->>>>>>> 92a598ff474bcb8ff58f8d980a4ae226d9125927
+  <artifactId>navx_simulator</artifactId>
+  <version>2019-0.0.1-RC</version>
 </project>

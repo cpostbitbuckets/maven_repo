@@ -7,29 +7,49 @@
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
+<<<<<<< HEAD
     <lastUpdated>20190203223202</lastUpdated>
+=======
+    <lastUpdated>20190203203053</lastUpdated>
+>>>>>>> 92a598ff474bcb8ff58f8d980a4ae226d9125927
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
+<<<<<<< HEAD
         <updated>20190203223202</updated>
+=======
+        <updated>20190203203053</updated>
+>>>>>>> 92a598ff474bcb8ff58f8d980a4ae226d9125927
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
+<<<<<<< HEAD
         <updated>20190203223202</updated>
+=======
+        <updated>20190203203053</updated>
+>>>>>>> 92a598ff474bcb8ff58f8d980a4ae226d9125927
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
+<<<<<<< HEAD
         <updated>20190203223202</updated>
+=======
+        <updated>20190203203053</updated>
+>>>>>>> 92a598ff474bcb8ff58f8d980a4ae226d9125927
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
+<<<<<<< HEAD
         <updated>20190203223202</updated>
+=======
+        <updated>20190203203053</updated>
+>>>>>>> 92a598ff474bcb8ff58f8d980a4ae226d9125927
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
