@@ -7,88 +7,48 @@
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-<<<<<<< HEAD
-    <lastUpdated>20190203223230</lastUpdated>
-=======
-    <lastUpdated>20190203203050</lastUpdated>
->>>>>>> 92a598ff474bcb8ff58f8d980a4ae226d9125927
+    <lastUpdated>20190204032156</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-<<<<<<< HEAD
-        <updated>20190203223230</updated>
+        <updated>20190204032156</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>windowsx86-64debug</classifier>
         <extension>zip</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203223230</updated>
+        <updated>20190204032156</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>windowsx86-64staticdebug</classifier>
         <extension>zip</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203223230</updated>
+        <updated>20190204032156</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>windowsx86-64</classifier>
         <extension>zip</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203223230</updated>
+        <updated>20190204032156</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>windowsx86-64static</classifier>
         <extension>zip</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203223230</updated>
-=======
-        <updated>20190203203050</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>osxx86-64debug</classifier>
-        <extension>zip</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203203050</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>osxx86-64staticdebug</classifier>
-        <extension>zip</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203203050</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>osxx86-64</classifier>
-        <extension>zip</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203203050</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>osxx86-64static</classifier>
-        <extension>zip</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203203050</updated>
->>>>>>> 92a598ff474bcb8ff58f8d980a4ae226d9125927
+        <updated>20190204032156</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>headers</classifier>
         <extension>zip</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-<<<<<<< HEAD
-        <updated>20190203223230</updated>
-=======
-        <updated>20190203203050</updated>
->>>>>>> 92a598ff474bcb8ff58f8d980a4ae226d9125927
+        <updated>20190204032156</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>zip</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-<<<<<<< HEAD
-        <updated>20190203223230</updated>
-=======
-        <updated>20190203203050</updated>
->>>>>>> 92a598ff474bcb8ff58f8d980a4ae226d9125927
+        <updated>20190204032156</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
