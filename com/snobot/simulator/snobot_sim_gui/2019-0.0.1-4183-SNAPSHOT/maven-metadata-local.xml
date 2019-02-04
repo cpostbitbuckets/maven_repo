@@ -7,49 +7,29 @@
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-<<<<<<< HEAD
-    <lastUpdated>20190203223156</lastUpdated>
-=======
-    <lastUpdated>20190203203053</lastUpdated>
->>>>>>> 92a598ff474bcb8ff58f8d980a4ae226d9125927
+    <lastUpdated>20190204021405</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-<<<<<<< HEAD
-        <updated>20190203223156</updated>
-=======
-        <updated>20190203203053</updated>
->>>>>>> 92a598ff474bcb8ff58f8d980a4ae226d9125927
+        <updated>20190204021405</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-<<<<<<< HEAD
-        <updated>20190203223156</updated>
-=======
-        <updated>20190203203053</updated>
->>>>>>> 92a598ff474bcb8ff58f8d980a4ae226d9125927
+        <updated>20190204021405</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-<<<<<<< HEAD
-        <updated>20190203223156</updated>
-=======
-        <updated>20190203203053</updated>
->>>>>>> 92a598ff474bcb8ff58f8d980a4ae226d9125927
+        <updated>20190204021405</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-<<<<<<< HEAD
-        <updated>20190203223156</updated>
-=======
-        <updated>20190203203053</updated>
->>>>>>> 92a598ff474bcb8ff58f8d980a4ae226d9125927
+        <updated>20190204021405</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

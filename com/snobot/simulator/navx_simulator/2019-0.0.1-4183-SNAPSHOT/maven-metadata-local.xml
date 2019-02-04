@@ -7,151 +7,71 @@
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-<<<<<<< HEAD
-    <lastUpdated>20190203223148</lastUpdated>
+    <lastUpdated>20190204021301</lastUpdated>
     <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2019-0.0.1-4183-SNAPSHOT</value>
+        <updated>20190204021301</updated>
+      </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203223148</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>windowsx86-64debug</classifier>
-        <extension>zip</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203223148</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>windowsx86-64staticdebug</classifier>
-        <extension>zip</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203223148</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>windowsx86-64</classifier>
-        <extension>zip</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203223148</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>windowsx86-64static</classifier>
-        <extension>zip</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203223148</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>headers</classifier>
-        <extension>zip</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203223148</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>sources</classifier>
-        <extension>zip</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203223148</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>windowsx86-64</classifier>
-        <extension>jar</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203223148</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>all</classifier>
-        <extension>jar</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203223148</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203223147</updated>
+        <updated>20190204021301</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203223147</updated>
+        <updated>20190204021301</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203223147</updated>
-=======
-    <lastUpdated>20190203203050</lastUpdated>
-    <snapshotVersions>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203203050</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203203050</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>javadoc</classifier>
-        <extension>jar</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203203050</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>sources</classifier>
-        <extension>jar</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203203050</updated>
+        <updated>20190204021301</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>osxx86-64debug</classifier>
         <extension>zip</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203203050</updated>
+        <updated>20190204021301</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>osxx86-64staticdebug</classifier>
         <extension>zip</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203203050</updated>
+        <updated>20190204021301</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>osxx86-64</classifier>
         <extension>zip</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203203050</updated>
+        <updated>20190204021301</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>osxx86-64static</classifier>
         <extension>zip</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203203050</updated>
+        <updated>20190204021301</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>headers</classifier>
         <extension>zip</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203203050</updated>
+        <updated>20190204021301</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>zip</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203203050</updated>
+        <updated>20190204021301</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>osxx86-64</classifier>
         <extension>jar</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203203050</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>all</classifier>
-        <extension>jar</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190203203050</updated>
->>>>>>> 92a598ff474bcb8ff58f8d980a4ae226d9125927
+        <updated>20190204021301</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
