@@ -7,71 +7,71 @@
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20190205001011</lastUpdated>
+    <lastUpdated>20190205041805</lastUpdated>
     <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2019-0.0.1-4183-SNAPSHOT</value>
+        <updated>20190205041805</updated>
+      </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190205001011</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>windowsx86-64debug</classifier>
-        <extension>zip</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190205001011</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>windowsx86-64staticdebug</classifier>
-        <extension>zip</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190205001011</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>windowsx86-64</classifier>
-        <extension>zip</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190205001011</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>windowsx86-64static</classifier>
-        <extension>zip</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190205001011</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>headers</classifier>
-        <extension>zip</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190205001011</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>sources</classifier>
-        <extension>zip</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190205001011</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <classifier>windowsx86-64</classifier>
-        <extension>jar</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190205001011</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190205001009</updated>
+        <updated>20190205041805</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190205001009</updated>
+        <updated>20190205041805</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190205001009</updated>
+        <updated>20190205041805</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>linuxx86-64debug</classifier>
+        <extension>zip</extension>
+        <value>2019-0.0.1-4183-SNAPSHOT</value>
+        <updated>20190205041802</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>linuxx86-64staticdebug</classifier>
+        <extension>zip</extension>
+        <value>2019-0.0.1-4183-SNAPSHOT</value>
+        <updated>20190205041802</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>linuxx86-64</classifier>
+        <extension>zip</extension>
+        <value>2019-0.0.1-4183-SNAPSHOT</value>
+        <updated>20190205041802</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>linuxx86-64static</classifier>
+        <extension>zip</extension>
+        <value>2019-0.0.1-4183-SNAPSHOT</value>
+        <updated>20190205041802</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>headers</classifier>
+        <extension>zip</extension>
+        <value>2019-0.0.1-4183-SNAPSHOT</value>
+        <updated>20190205041802</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>zip</extension>
+        <value>2019-0.0.1-4183-SNAPSHOT</value>
+        <updated>20190205041802</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>linuxx86-64</classifier>
+        <extension>jar</extension>
+        <value>2019-0.0.1-4183-SNAPSHOT</value>
+        <updated>20190205041802</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
