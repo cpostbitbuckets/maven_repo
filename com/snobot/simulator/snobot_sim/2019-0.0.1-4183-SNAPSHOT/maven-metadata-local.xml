@@ -7,48 +7,48 @@
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20190207024413</lastUpdated>
+    <lastUpdated>20190207025628</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190207024413</updated>
+        <updated>20190207025628</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <classifier>linuxx86-64debug</classifier>
+        <classifier>windowsx86-64debug</classifier>
         <extension>zip</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190207024413</updated>
+        <updated>20190207025628</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <classifier>linuxx86-64staticdebug</classifier>
+        <classifier>windowsx86-64staticdebug</classifier>
         <extension>zip</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190207024413</updated>
+        <updated>20190207025628</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <classifier>linuxx86-64</classifier>
+        <classifier>windowsx86-64</classifier>
         <extension>zip</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190207024413</updated>
+        <updated>20190207025628</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <classifier>linuxx86-64static</classifier>
+        <classifier>windowsx86-64static</classifier>
         <extension>zip</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190207024413</updated>
+        <updated>20190207025628</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>headers</classifier>
         <extension>zip</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190207024413</updated>
+        <updated>20190207025628</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>zip</extension>
         <value>2019-0.0.1-4183-SNAPSHOT</value>
-        <updated>20190207024413</updated>
+        <updated>20190207025628</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
