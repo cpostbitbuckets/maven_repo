@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.bitbuckets</groupId>
+  <artifactId>simulator</artifactId>
+  <versioning>
+    <versions>
+      <version>2019.4.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20191223030016</lastUpdated>
+  </versioning>
+</metadata>
