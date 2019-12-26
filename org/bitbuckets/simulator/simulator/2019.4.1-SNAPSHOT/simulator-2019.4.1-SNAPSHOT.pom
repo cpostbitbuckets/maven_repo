@@ -73,6 +73,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.kauailabs.navx.frc</groupId>
+      <artifactId>navx-java</artifactId>
+      <version>3.1.366</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-simple</artifactId>
       <version>1.7.25</version>
