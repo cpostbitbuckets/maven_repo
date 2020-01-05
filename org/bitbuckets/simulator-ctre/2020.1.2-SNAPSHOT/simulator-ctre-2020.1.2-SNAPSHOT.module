@@ -1,0 +1,107 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.bitbuckets",
+    "module": "simulator-ctre",
+    "version": "2020.1.2-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.0.1",
+      "buildId": "yxaqt2tfuzbj5ojuvdqkdobuia"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.ctre.phoenix",
+          "module": "api-java",
+          "version": {
+            "requires": "5.17.2"
+          }
+        },
+        {
+          "group": "com.ctre.phoenix",
+          "module": "wpiapi-java",
+          "version": {
+            "requires": "5.17.2"
+          }
+        },
+        {
+          "group": "org.bitbuckets",
+          "module": "simulator",
+          "version": {
+            "requires": "2020.1.2-SNAPSHOT"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "simulator-ctre-2020.1.2-SNAPSHOT.jar",
+          "url": "simulator-ctre-2020.1.2-SNAPSHOT.jar",
+          "size": 6905,
+          "sha512": "7b45731dcf1e4899f945bc383c5e122a77c28c317da10108284e5ffe7dca5dbd7139b7bf2e74e958ef7fd8dc8f96670973f652f180d93d2f69a1c820872e00a4",
+          "sha256": "1d624a21ab567f5dee6dade20378ff82df9bcd55c2106d4d37d6424c69848cb",
+          "sha1": "3cec148e4f8b7520c87a0e68b4f1d911acf57797",
+          "md5": "56944c4b01a2655f2d87874c0fe19bc7"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.ctre.phoenix",
+          "module": "api-java",
+          "version": {
+            "requires": "5.17.2"
+          }
+        },
+        {
+          "group": "com.ctre.phoenix",
+          "module": "wpiapi-java",
+          "version": {
+            "requires": "5.17.2"
+          }
+        },
+        {
+          "group": "org.bitbuckets",
+          "module": "simulator",
+          "version": {
+            "requires": "2020.1.2-SNAPSHOT"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "simulator-ctre-2020.1.2-SNAPSHOT.jar",
+          "url": "simulator-ctre-2020.1.2-SNAPSHOT.jar",
+          "size": 6905,
+          "sha512": "7b45731dcf1e4899f945bc383c5e122a77c28c317da10108284e5ffe7dca5dbd7139b7bf2e74e958ef7fd8dc8f96670973f652f180d93d2f69a1c820872e00a4",
+          "sha256": "1d624a21ab567f5dee6dade20378ff82df9bcd55c2106d4d37d6424c69848cb",
+          "sha1": "3cec148e4f8b7520c87a0e68b4f1d911acf57797",
+          "md5": "56944c4b01a2655f2d87874c0fe19bc7"
+        }
+      ]
+    }
+  ]
+}
