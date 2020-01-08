@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "nbntnqit2vdivltqgc3ua37gqy"
+      "buildId": "g4ivytvnz5anhbxcmrqcz4w4qq"
     }
   },
   "variants": [
@@ -164,11 +164,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 377002,
-          "sha512": "b0932783205b8b42efd34aea95d0ad0266d539381d305b6b98db7b3c364393fa7ac4011321efc53b60bbf1b21c73cbd9478a31da4227e85560acf1c78cd15562",
-          "sha256": "89c6e6dacd866c5500775453032ca5f96f0fc6bdcf234021e763ffbdab3c8604",
-          "sha1": "25c57f74f3b30bdd17d60b644d0035b2fe62f384",
-          "md5": "afd06f10af4b75a5cb1edce4219a584c"
+          "size": 382545,
+          "sha512": "37a7aa518f66748a6f406010dfd922e8a1186ef72f062af697650ef21cabb0f5b5185fb0ef9899143009203359bcda42f4867b33bbb666a1b9011f26227c317d",
+          "sha256": "f42fe180e139d1f199a2258d463287f39037c34396a798f01f1960b7d738392a",
+          "sha1": "7b3be63ccbdf95b55343a14cb9b6c840ee7acfce",
+          "md5": "5b807fe3f10bba4956f120094f065c99"
         }
       ]
     },
@@ -342,11 +342,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 377002,
-          "sha512": "b0932783205b8b42efd34aea95d0ad0266d539381d305b6b98db7b3c364393fa7ac4011321efc53b60bbf1b21c73cbd9478a31da4227e85560acf1c78cd15562",
-          "sha256": "89c6e6dacd866c5500775453032ca5f96f0fc6bdcf234021e763ffbdab3c8604",
-          "sha1": "25c57f74f3b30bdd17d60b644d0035b2fe62f384",
-          "md5": "afd06f10af4b75a5cb1edce4219a584c"
+          "size": 382545,
+          "sha512": "37a7aa518f66748a6f406010dfd922e8a1186ef72f062af697650ef21cabb0f5b5185fb0ef9899143009203359bcda42f4867b33bbb666a1b9011f26227c317d",
+          "sha256": "f42fe180e139d1f199a2258d463287f39037c34396a798f01f1960b7d738392a",
+          "sha1": "7b3be63ccbdf95b55343a14cb9b6c840ee7acfce",
+          "md5": "5b807fe3f10bba4956f120094f065c99"
         }
       ]
     }

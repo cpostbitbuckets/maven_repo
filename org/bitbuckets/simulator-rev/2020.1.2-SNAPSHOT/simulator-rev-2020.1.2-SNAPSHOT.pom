@@ -14,7 +14,7 @@
     <dependency>
       <groupId>com.revrobotics.frc</groupId>
       <artifactId>SparkMax-java</artifactId>
-      <version>1.4.1</version>
+      <version>1.5.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

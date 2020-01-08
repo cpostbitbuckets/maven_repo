@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "dbu4zheyvjbrnkkubzo4yh54je"
+      "buildId": "7psef5rvu5c4ldnzxbljtcow4i"
     }
   },
   "variants": [
@@ -29,7 +29,7 @@
           "group": "com.revrobotics.frc",
           "module": "SparkMax-java",
           "version": {
-            "requires": "1.4.1"
+            "requires": "1.5.1"
           }
         },
         {
@@ -44,11 +44,11 @@
         {
           "name": "simulator-rev-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-rev-2020.1.2-SNAPSHOT.jar",
-          "size": 5351,
-          "sha512": "b56991aa703932baae1b22c1796460bbcc2a3cb658c57529747289e3358303b0e7eccbda373a1dc3fba44dbf4ae9019631c3a3f06ab6c2f8c0c1a601fdc73ceb",
-          "sha256": "8040364156c23085e69737384be96d7c0572956c83776c823b1bb13981d4c318",
-          "sha1": "f574736080e7a21f14fcdf5a12101207ad89bd73",
-          "md5": "36725f81ae160dca9ff7db217a4ecab2"
+          "size": 5698,
+          "sha512": "ff2ec8e9b9d61a04e742c023f28de94ccee1760329fd2914643687df4774bc83c391faba21b155d4b4e54a28c347358224c54b727883e40ffc3b71d8af46bd00",
+          "sha256": "954a03cc680a3e2934bd7de42bd86af7fd3da584abe98adbb4f48ff928a78a48",
+          "sha1": "a0c860646ac6eebf5642259265a062156e859b30",
+          "md5": "88d03f93fc5cfb2a49952a6a98bc08ad"
         }
       ]
     },
@@ -66,7 +66,7 @@
           "group": "com.revrobotics.frc",
           "module": "SparkMax-java",
           "version": {
-            "requires": "1.4.1"
+            "requires": "1.5.1"
           }
         },
         {
@@ -81,11 +81,11 @@
         {
           "name": "simulator-rev-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-rev-2020.1.2-SNAPSHOT.jar",
-          "size": 5351,
-          "sha512": "b56991aa703932baae1b22c1796460bbcc2a3cb658c57529747289e3358303b0e7eccbda373a1dc3fba44dbf4ae9019631c3a3f06ab6c2f8c0c1a601fdc73ceb",
-          "sha256": "8040364156c23085e69737384be96d7c0572956c83776c823b1bb13981d4c318",
-          "sha1": "f574736080e7a21f14fcdf5a12101207ad89bd73",
-          "md5": "36725f81ae160dca9ff7db217a4ecab2"
+          "size": 5698,
+          "sha512": "ff2ec8e9b9d61a04e742c023f28de94ccee1760329fd2914643687df4774bc83c391faba21b155d4b4e54a28c347358224c54b727883e40ffc3b71d8af46bd00",
+          "sha256": "954a03cc680a3e2934bd7de42bd86af7fd3da584abe98adbb4f48ff928a78a48",
+          "sha1": "a0c860646ac6eebf5642259265a062156e859b30",
+          "md5": "88d03f93fc5cfb2a49952a6a98bc08ad"
         }
       ]
     }
