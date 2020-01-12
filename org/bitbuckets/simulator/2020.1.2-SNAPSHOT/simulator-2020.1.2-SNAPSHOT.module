@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "mxat3476yjbp7dpmcnt2c7ccqu"
+      "buildId": "ffoguidubfd4ndszbgx5767w2i"
     }
   },
   "variants": [
@@ -164,11 +164,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 384847,
-          "sha512": "2f190d5fa74b95a2662c2d153af0ed358a795ad6d81c630fbe086ba47fdbf41a124af83500578a4b6228def90f6628b705e4cc34af2a5ff6279d442b12f8d413",
-          "sha256": "babf957ddf4caf1f0db66114634d0ce2c2d7658a138cddeba07ae84b87f4c993",
-          "sha1": "73e14ee42cf559fcb6aa2bd457ad51a346494133",
-          "md5": "33908aa0b092d1c008983b866be5d491"
+          "size": 489590,
+          "sha512": "dbbdc4f8aceb24c2d4773a434e2528c79a496df6bec780e564b85192ad9214de81ffb6fbd9237c1b72c999bc7da93f847371c0331a01ea486b448b54eff87c38",
+          "sha256": "d34dc02a95a5207b9107f775b939d9b2702f54d079b14654ff2a06011a31c834",
+          "sha1": "b2cf2828082f2414bd45288663f2a467c6b4814c",
+          "md5": "dfb6fe1a816f2cbe64f50f17cd2985a5"
         }
       ]
     },
@@ -342,11 +342,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 384847,
-          "sha512": "2f190d5fa74b95a2662c2d153af0ed358a795ad6d81c630fbe086ba47fdbf41a124af83500578a4b6228def90f6628b705e4cc34af2a5ff6279d442b12f8d413",
-          "sha256": "babf957ddf4caf1f0db66114634d0ce2c2d7658a138cddeba07ae84b87f4c993",
-          "sha1": "73e14ee42cf559fcb6aa2bd457ad51a346494133",
-          "md5": "33908aa0b092d1c008983b866be5d491"
+          "size": 489590,
+          "sha512": "dbbdc4f8aceb24c2d4773a434e2528c79a496df6bec780e564b85192ad9214de81ffb6fbd9237c1b72c999bc7da93f847371c0331a01ea486b448b54eff87c38",
+          "sha256": "d34dc02a95a5207b9107f775b939d9b2702f54d079b14654ff2a06011a31c834",
+          "sha1": "b2cf2828082f2414bd45288663f2a467c6b4814c",
+          "md5": "dfb6fe1a816f2cbe64f50f17cd2985a5"
         }
       ]
     }
