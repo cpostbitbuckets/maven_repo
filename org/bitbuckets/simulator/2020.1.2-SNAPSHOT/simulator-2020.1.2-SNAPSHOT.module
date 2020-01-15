@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "y7fcmimjsrdyffmgosk6vokyqe"
+      "buildId": "3y2ofpjvb5dgnmgse7dkzxmavi"
     }
   },
   "variants": [
@@ -164,11 +164,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 489590,
-          "sha512": "d4757cfed5cc6adccb39198a1a1fbb0ff8b7bc6dcdae715e6b0ca2251783e776c8b80af043cb63682a31fe3d560870a7f6a9633af03faddcb51b6c31b0681ce3",
-          "sha256": "1ea27e3b23ac0030725711e433413e70da2a70ebb2a6d8e97f655b7f75bd99f2",
-          "sha1": "93402538a9d6dc596ccc6664716c0521bbaab33f",
-          "md5": "26a943ad27f81a7abcdc67139d564da0"
+          "size": 492456,
+          "sha512": "4c9273c1d97e4f1982ba225e69d4993c746b142c32f5c3fbd467200e248671faf5507e9e1a85aee32c4049d52a72f23fcaefe6a8e655a341bbde23e615cf46c7",
+          "sha256": "fbb70997412da21fb0a458204691dded0c882b00ec5450b53261bfafe2c74c82",
+          "sha1": "84935f957b604bc73f866dd06843961f1045e21b",
+          "md5": "c4f29062d2bddcda307e5c6f6fdfdc01"
         }
       ]
     },
@@ -342,11 +342,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 489590,
-          "sha512": "d4757cfed5cc6adccb39198a1a1fbb0ff8b7bc6dcdae715e6b0ca2251783e776c8b80af043cb63682a31fe3d560870a7f6a9633af03faddcb51b6c31b0681ce3",
-          "sha256": "1ea27e3b23ac0030725711e433413e70da2a70ebb2a6d8e97f655b7f75bd99f2",
-          "sha1": "93402538a9d6dc596ccc6664716c0521bbaab33f",
-          "md5": "26a943ad27f81a7abcdc67139d564da0"
+          "size": 492456,
+          "sha512": "4c9273c1d97e4f1982ba225e69d4993c746b142c32f5c3fbd467200e248671faf5507e9e1a85aee32c4049d52a72f23fcaefe6a8e655a341bbde23e615cf46c7",
+          "sha256": "fbb70997412da21fb0a458204691dded0c882b00ec5450b53261bfafe2c74c82",
+          "sha1": "84935f957b604bc73f866dd06843961f1045e21b",
+          "md5": "c4f29062d2bddcda307e5c6f6fdfdc01"
         }
       ]
     }
