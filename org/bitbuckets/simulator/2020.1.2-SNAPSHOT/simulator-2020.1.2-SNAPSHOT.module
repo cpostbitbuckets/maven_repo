@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "3y2ofpjvb5dgnmgse7dkzxmavi"
+      "buildId": "phm3zskgyvcetimpaobhctxegu"
     }
   },
   "variants": [
@@ -164,11 +164,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 492456,
-          "sha512": "4c9273c1d97e4f1982ba225e69d4993c746b142c32f5c3fbd467200e248671faf5507e9e1a85aee32c4049d52a72f23fcaefe6a8e655a341bbde23e615cf46c7",
-          "sha256": "fbb70997412da21fb0a458204691dded0c882b00ec5450b53261bfafe2c74c82",
-          "sha1": "84935f957b604bc73f866dd06843961f1045e21b",
-          "md5": "c4f29062d2bddcda307e5c6f6fdfdc01"
+          "size": 496545,
+          "sha512": "119894a528a0c045d33ed4ef7bf091249fb2b2a095b557d19a857e88849e075815a033f82e81de4d679dda4824c29aec44509cda3695de8e4b447c3fd712c322",
+          "sha256": "d1c1bb59e953c0d0dda85039858bcd3a24ad6ff0cd424f69b5fb74f609a3d22c",
+          "sha1": "86cef03594d24d9eb9018b6a69550d8c46d5e358",
+          "md5": "196c9ee839863cb69bea0826acc05a73"
         }
       ]
     },
@@ -342,11 +342,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 492456,
-          "sha512": "4c9273c1d97e4f1982ba225e69d4993c746b142c32f5c3fbd467200e248671faf5507e9e1a85aee32c4049d52a72f23fcaefe6a8e655a341bbde23e615cf46c7",
-          "sha256": "fbb70997412da21fb0a458204691dded0c882b00ec5450b53261bfafe2c74c82",
-          "sha1": "84935f957b604bc73f866dd06843961f1045e21b",
-          "md5": "c4f29062d2bddcda307e5c6f6fdfdc01"
+          "size": 496545,
+          "sha512": "119894a528a0c045d33ed4ef7bf091249fb2b2a095b557d19a857e88849e075815a033f82e81de4d679dda4824c29aec44509cda3695de8e4b447c3fd712c322",
+          "sha256": "d1c1bb59e953c0d0dda85039858bcd3a24ad6ff0cd424f69b5fb74f609a3d22c",
+          "sha1": "86cef03594d24d9eb9018b6a69550d8c46d5e358",
+          "md5": "196c9ee839863cb69bea0826acc05a73"
         }
       ]
     }
