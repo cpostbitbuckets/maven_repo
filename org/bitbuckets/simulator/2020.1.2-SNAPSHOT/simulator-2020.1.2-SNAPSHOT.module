@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "phm3zskgyvcetimpaobhctxegu"
+      "buildId": "ejujik2nrzghlkvwn6nqf7cxsy"
     }
   },
   "variants": [
@@ -164,11 +164,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 496545,
-          "sha512": "119894a528a0c045d33ed4ef7bf091249fb2b2a095b557d19a857e88849e075815a033f82e81de4d679dda4824c29aec44509cda3695de8e4b447c3fd712c322",
-          "sha256": "d1c1bb59e953c0d0dda85039858bcd3a24ad6ff0cd424f69b5fb74f609a3d22c",
-          "sha1": "86cef03594d24d9eb9018b6a69550d8c46d5e358",
-          "md5": "196c9ee839863cb69bea0826acc05a73"
+          "size": 496546,
+          "sha512": "8b31c78707ada5096da96ee6732fddec1bd98357b8e00dee5fd36ac999c07b401e57a5c2c95b5867cfe24cc0f9d20921ff2c661116224f5bdb0c01643496f412",
+          "sha256": "f57235a99945c4489a83d25ea7910c5f53eb59fae071fd4780684ae946ca7f2c",
+          "sha1": "d324c81f2bdee4c42c4b5ddb4d4536c5efbc3cc1",
+          "md5": "28e374852e5d9a8bb1d11a765c0e8a8"
         }
       ]
     },
@@ -342,11 +342,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 496545,
-          "sha512": "119894a528a0c045d33ed4ef7bf091249fb2b2a095b557d19a857e88849e075815a033f82e81de4d679dda4824c29aec44509cda3695de8e4b447c3fd712c322",
-          "sha256": "d1c1bb59e953c0d0dda85039858bcd3a24ad6ff0cd424f69b5fb74f609a3d22c",
-          "sha1": "86cef03594d24d9eb9018b6a69550d8c46d5e358",
-          "md5": "196c9ee839863cb69bea0826acc05a73"
+          "size": 496546,
+          "sha512": "8b31c78707ada5096da96ee6732fddec1bd98357b8e00dee5fd36ac999c07b401e57a5c2c95b5867cfe24cc0f9d20921ff2c661116224f5bdb0c01643496f412",
+          "sha256": "f57235a99945c4489a83d25ea7910c5f53eb59fae071fd4780684ae946ca7f2c",
+          "sha1": "d324c81f2bdee4c42c4b5ddb4d4536c5efbc3cc1",
+          "md5": "28e374852e5d9a8bb1d11a765c0e8a8"
         }
       ]
     }
