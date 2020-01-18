@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "ld4pcivanresvbg35tygem5tg4"
+      "buildId": "krrzcakvuvb6tklblfle5fo7pq"
     }
   },
   "variants": [
@@ -164,11 +164,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 496570,
-          "sha512": "5ffbb61109b33a0076fb884349e8a6e4ff8b8c8c84d0d5e5d7dde083fde9bbde8e6029aa43a033c00c600eecef1d207f4daa930944025bdb393a0e93e2feb46e",
-          "sha256": "2d3093d2a8dc568a4dcd6774537624b51bc5b49d455c73075316cc9ca6a83088",
-          "sha1": "850d3c4a326a9375403820c828a0e4f5d38ca778",
-          "md5": "d4d4b0dcd6571ba6402c8bac228a987d"
+          "size": 496559,
+          "sha512": "d93c9edebdf52619bab10af7b29d62521bd439fd64645a0c5543ad59a57b8741806723141cf28aa01bc2cd1169420618f356b7e3f874e4a1bc1be5e80a08af25",
+          "sha256": "1f44efc4830ac82ff979a674d121df96e2431729dd2e4f0a028561612d45b366",
+          "sha1": "2acb5934a321e9eec1e24e6ce4eaa7cb06aaf996",
+          "md5": "9771458dd91380f5fb933d092b8bf7c0"
         }
       ]
     },
@@ -342,11 +342,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 496570,
-          "sha512": "5ffbb61109b33a0076fb884349e8a6e4ff8b8c8c84d0d5e5d7dde083fde9bbde8e6029aa43a033c00c600eecef1d207f4daa930944025bdb393a0e93e2feb46e",
-          "sha256": "2d3093d2a8dc568a4dcd6774537624b51bc5b49d455c73075316cc9ca6a83088",
-          "sha1": "850d3c4a326a9375403820c828a0e4f5d38ca778",
-          "md5": "d4d4b0dcd6571ba6402c8bac228a987d"
+          "size": 496559,
+          "sha512": "d93c9edebdf52619bab10af7b29d62521bd439fd64645a0c5543ad59a57b8741806723141cf28aa01bc2cd1169420618f356b7e3f874e4a1bc1be5e80a08af25",
+          "sha256": "1f44efc4830ac82ff979a674d121df96e2431729dd2e4f0a028561612d45b366",
+          "sha1": "2acb5934a321e9eec1e24e6ce4eaa7cb06aaf996",
+          "md5": "9771458dd91380f5fb933d092b8bf7c0"
         }
       ]
     }
