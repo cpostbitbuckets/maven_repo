@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "krrzcakvuvb6tklblfle5fo7pq"
+      "buildId": "5nolvvym6nccvimfukd7ec7hee"
     }
   },
   "variants": [
@@ -164,11 +164,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 496559,
-          "sha512": "d93c9edebdf52619bab10af7b29d62521bd439fd64645a0c5543ad59a57b8741806723141cf28aa01bc2cd1169420618f356b7e3f874e4a1bc1be5e80a08af25",
-          "sha256": "1f44efc4830ac82ff979a674d121df96e2431729dd2e4f0a028561612d45b366",
-          "sha1": "2acb5934a321e9eec1e24e6ce4eaa7cb06aaf996",
-          "md5": "9771458dd91380f5fb933d092b8bf7c0"
+          "size": 701306,
+          "sha512": "fd58f7ff01983d4aa844faa59bef6ec9628efa811f56bc4ebff9eb35e4c4e2063a61b4d14acfb297e3da631a6ebac3c3697ef0754bb5a40d4af1096ba01db5e9",
+          "sha256": "9e1ddce8b3226dd9262bc1ea622a68a8c395de2838ec316d862e4bd5fe1a3d16",
+          "sha1": "6929888f11e7f7e8ab341d8fef9079c76161ae57",
+          "md5": "40649bd1a2dbead7d0263048f51e77e5"
         }
       ]
     },
@@ -342,11 +342,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 496559,
-          "sha512": "d93c9edebdf52619bab10af7b29d62521bd439fd64645a0c5543ad59a57b8741806723141cf28aa01bc2cd1169420618f356b7e3f874e4a1bc1be5e80a08af25",
-          "sha256": "1f44efc4830ac82ff979a674d121df96e2431729dd2e4f0a028561612d45b366",
-          "sha1": "2acb5934a321e9eec1e24e6ce4eaa7cb06aaf996",
-          "md5": "9771458dd91380f5fb933d092b8bf7c0"
+          "size": 701306,
+          "sha512": "fd58f7ff01983d4aa844faa59bef6ec9628efa811f56bc4ebff9eb35e4c4e2063a61b4d14acfb297e3da631a6ebac3c3697ef0754bb5a40d4af1096ba01db5e9",
+          "sha256": "9e1ddce8b3226dd9262bc1ea622a68a8c395de2838ec316d862e4bd5fe1a3d16",
+          "sha1": "6929888f11e7f7e8ab341d8fef9079c76161ae57",
+          "md5": "40649bd1a2dbead7d0263048f51e77e5"
         }
       ]
     }
