@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "5nolvvym6nccvimfukd7ec7hee"
+      "buildId": "ui4htiwrc5amxdsq4w35rwhrjq"
     }
   },
   "variants": [
@@ -164,11 +164,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 701306,
-          "sha512": "fd58f7ff01983d4aa844faa59bef6ec9628efa811f56bc4ebff9eb35e4c4e2063a61b4d14acfb297e3da631a6ebac3c3697ef0754bb5a40d4af1096ba01db5e9",
-          "sha256": "9e1ddce8b3226dd9262bc1ea622a68a8c395de2838ec316d862e4bd5fe1a3d16",
-          "sha1": "6929888f11e7f7e8ab341d8fef9079c76161ae57",
-          "md5": "40649bd1a2dbead7d0263048f51e77e5"
+          "size": 701308,
+          "sha512": "5d6195571191413da813d6003c1960dcfdbada830898fae8f141f5f8c036223c2771ef22f1aa45a51ff098fbed6e2e9bc74ea8e05ac9fb4cb12515c85094c70e",
+          "sha256": "7da6b44b459750dcd4a17d6cd17643800b0fde2d4c90dc8269cd78b4d5a42e4a",
+          "sha1": "e8a3f38f1e141c166124c8da76f860d1989ba33e",
+          "md5": "351e3677ed9e8151d354d86a568f01c6"
         }
       ]
     },
@@ -342,11 +342,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 701306,
-          "sha512": "fd58f7ff01983d4aa844faa59bef6ec9628efa811f56bc4ebff9eb35e4c4e2063a61b4d14acfb297e3da631a6ebac3c3697ef0754bb5a40d4af1096ba01db5e9",
-          "sha256": "9e1ddce8b3226dd9262bc1ea622a68a8c395de2838ec316d862e4bd5fe1a3d16",
-          "sha1": "6929888f11e7f7e8ab341d8fef9079c76161ae57",
-          "md5": "40649bd1a2dbead7d0263048f51e77e5"
+          "size": 701308,
+          "sha512": "5d6195571191413da813d6003c1960dcfdbada830898fae8f141f5f8c036223c2771ef22f1aa45a51ff098fbed6e2e9bc74ea8e05ac9fb4cb12515c85094c70e",
+          "sha256": "7da6b44b459750dcd4a17d6cd17643800b0fde2d4c90dc8269cd78b4d5a42e4a",
+          "sha1": "e8a3f38f1e141c166124c8da76f860d1989ba33e",
+          "md5": "351e3677ed9e8151d354d86a568f01c6"
         }
       ]
     }
