@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "ui4htiwrc5amxdsq4w35rwhrjq"
+      "buildId": "iph5qlhymzheffj62xcl2cxd2u"
     }
   },
   "variants": [
@@ -164,11 +164,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 701308,
-          "sha512": "5d6195571191413da813d6003c1960dcfdbada830898fae8f141f5f8c036223c2771ef22f1aa45a51ff098fbed6e2e9bc74ea8e05ac9fb4cb12515c85094c70e",
-          "sha256": "7da6b44b459750dcd4a17d6cd17643800b0fde2d4c90dc8269cd78b4d5a42e4a",
-          "sha1": "e8a3f38f1e141c166124c8da76f860d1989ba33e",
-          "md5": "351e3677ed9e8151d354d86a568f01c6"
+          "size": 701156,
+          "sha512": "d21e7e5536f8969bbd5750ac3bbec96a8dd9edc590aa74c7c35c8ceac8a37c70570ffa47a5fef911087f9ad944eb651f14423ffc1b7978527c72c50238b3a838",
+          "sha256": "10c85c001c389f99c5f42963fc319555bed16c9c061a2aa87bdbedd5c4c9f113",
+          "sha1": "14a2bb1dea5ffd5108fb3f8ebbe761ef58220bc6",
+          "md5": "728f4f63db896300e69401de420d0bfb"
         }
       ]
     },
@@ -342,11 +342,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 701308,
-          "sha512": "5d6195571191413da813d6003c1960dcfdbada830898fae8f141f5f8c036223c2771ef22f1aa45a51ff098fbed6e2e9bc74ea8e05ac9fb4cb12515c85094c70e",
-          "sha256": "7da6b44b459750dcd4a17d6cd17643800b0fde2d4c90dc8269cd78b4d5a42e4a",
-          "sha1": "e8a3f38f1e141c166124c8da76f860d1989ba33e",
-          "md5": "351e3677ed9e8151d354d86a568f01c6"
+          "size": 701156,
+          "sha512": "d21e7e5536f8969bbd5750ac3bbec96a8dd9edc590aa74c7c35c8ceac8a37c70570ffa47a5fef911087f9ad944eb651f14423ffc1b7978527c72c50238b3a838",
+          "sha256": "10c85c001c389f99c5f42963fc319555bed16c9c061a2aa87bdbedd5c4c9f113",
+          "sha1": "14a2bb1dea5ffd5108fb3f8ebbe761ef58220bc6",
+          "md5": "728f4f63db896300e69401de420d0bfb"
         }
       ]
     }
