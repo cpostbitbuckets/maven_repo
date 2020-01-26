@@ -14,13 +14,13 @@
     <dependency>
       <groupId>com.ctre.phoenix</groupId>
       <artifactId>api-java</artifactId>
-      <version>5.17.2</version>
+      <version>5.17.6</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.ctre.phoenix</groupId>
       <artifactId>wpiapi-java</artifactId>
-      <version>5.17.2</version>
+      <version>5.17.6</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

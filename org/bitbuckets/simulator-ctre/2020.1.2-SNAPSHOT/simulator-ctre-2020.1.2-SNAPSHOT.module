@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "yquned57jjbohnkpiagadtfzu4"
+      "buildId": "mkfcnqn2l5bftn63phakfqvv3i"
     }
   },
   "variants": [
@@ -29,14 +29,14 @@
           "group": "com.ctre.phoenix",
           "module": "api-java",
           "version": {
-            "requires": "5.17.2"
+            "requires": "5.17.6"
           }
         },
         {
           "group": "com.ctre.phoenix",
           "module": "wpiapi-java",
           "version": {
-            "requires": "5.17.2"
+            "requires": "5.17.6"
           }
         },
         {
@@ -52,10 +52,10 @@
           "name": "simulator-ctre-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-ctre-2020.1.2-SNAPSHOT.jar",
           "size": 6905,
-          "sha512": "734f50e2687de5b71c1159ff649e6bdc9b31d4b1ff08d1882647bb600436e7237683519afa5bf4330cbc31a7d54e4d9c217278b5bd3f952816778ad2f00eb901",
-          "sha256": "a98d3dc3302a6a02fd9a72216f3e1c251d7d8cd2e19de98b7b56c17d491f5900",
-          "sha1": "919ddc94468699ad0f28c3daa651ced539bfece5",
-          "md5": "925c3009019d97e5b0cfd4acdbbe873"
+          "sha512": "7a9362b4ba203448bb8f0825f4a6d22186520da1bb1eb2dbc4cca2530c664ce7aa0ef01c707943021326855e0cfb288c93fce88ea5c964d6070c6cab8230e624",
+          "sha256": "c8f2f8f91f018388dd513cea72ec862d606d23732058a21d37a196dbf3c99643",
+          "sha1": "b0cca1681a14a1c9619a9f0d922e379b2fb1ecc",
+          "md5": "a511237c42e8aab0bbcd94f7df447d02"
         }
       ]
     },
@@ -73,14 +73,14 @@
           "group": "com.ctre.phoenix",
           "module": "api-java",
           "version": {
-            "requires": "5.17.2"
+            "requires": "5.17.6"
           }
         },
         {
           "group": "com.ctre.phoenix",
           "module": "wpiapi-java",
           "version": {
-            "requires": "5.17.2"
+            "requires": "5.17.6"
           }
         },
         {
@@ -96,10 +96,10 @@
           "name": "simulator-ctre-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-ctre-2020.1.2-SNAPSHOT.jar",
           "size": 6905,
-          "sha512": "734f50e2687de5b71c1159ff649e6bdc9b31d4b1ff08d1882647bb600436e7237683519afa5bf4330cbc31a7d54e4d9c217278b5bd3f952816778ad2f00eb901",
-          "sha256": "a98d3dc3302a6a02fd9a72216f3e1c251d7d8cd2e19de98b7b56c17d491f5900",
-          "sha1": "919ddc94468699ad0f28c3daa651ced539bfece5",
-          "md5": "925c3009019d97e5b0cfd4acdbbe873"
+          "sha512": "7a9362b4ba203448bb8f0825f4a6d22186520da1bb1eb2dbc4cca2530c664ce7aa0ef01c707943021326855e0cfb288c93fce88ea5c964d6070c6cab8230e624",
+          "sha256": "c8f2f8f91f018388dd513cea72ec862d606d23732058a21d37a196dbf3c99643",
+          "sha1": "b0cca1681a14a1c9619a9f0d922e379b2fb1ecc",
+          "md5": "a511237c42e8aab0bbcd94f7df447d02"
         }
       ]
     }
