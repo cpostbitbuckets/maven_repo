@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "6rogvum6kne7jaiw67uqq5g67q"
+      "buildId": "dv6epfhffbek7g2ars4jnlxt4a"
     }
   },
   "variants": [
@@ -52,10 +52,10 @@
           "name": "simulator-ctre-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-ctre-2020.1.2-SNAPSHOT.jar",
           "size": 6905,
-          "sha512": "bc3c10a2623a5a3281f854df5894d9d7b3a815312c23ed16c36588789bcbeb9b0caba113824893a50086fd9b243371cee97e4527746eb241bc8a54315b7238f1",
-          "sha256": "74d88078b828bf78fef31e3c5434e08610980a87b0259c22f324e4ead6f0df46",
-          "sha1": "3e69af5300da7692378e2a3416b053acb6286fc5",
-          "md5": "2822cb044449729dbe6f1c996059a1d9"
+          "sha512": "2b0d5d307a7650a41e2ebcb3da0526f01cc9988fe2883e2759793af3b7c49e8bf9a329963742e9a40f4d4ba5b1d420f3ca2125a433c02ce9bce0b9502fae8b68",
+          "sha256": "36ba0f31d675717a54a751c33b745c67851297c071f61e9cd6c878d79924c946",
+          "sha1": "37578530c50285ac592961e54325dcc61b4bd6e1",
+          "md5": "b780ffbf4654da763e5aff17c3180c68"
         }
       ]
     },
@@ -96,10 +96,10 @@
           "name": "simulator-ctre-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-ctre-2020.1.2-SNAPSHOT.jar",
           "size": 6905,
-          "sha512": "bc3c10a2623a5a3281f854df5894d9d7b3a815312c23ed16c36588789bcbeb9b0caba113824893a50086fd9b243371cee97e4527746eb241bc8a54315b7238f1",
-          "sha256": "74d88078b828bf78fef31e3c5434e08610980a87b0259c22f324e4ead6f0df46",
-          "sha1": "3e69af5300da7692378e2a3416b053acb6286fc5",
-          "md5": "2822cb044449729dbe6f1c996059a1d9"
+          "sha512": "2b0d5d307a7650a41e2ebcb3da0526f01cc9988fe2883e2759793af3b7c49e8bf9a329963742e9a40f4d4ba5b1d420f3ca2125a433c02ce9bce0b9502fae8b68",
+          "sha256": "36ba0f31d675717a54a751c33b745c67851297c071f61e9cd6c878d79924c946",
+          "sha1": "37578530c50285ac592961e54325dcc61b4bd6e1",
+          "md5": "b780ffbf4654da763e5aff17c3180c68"
         }
       ]
     }
