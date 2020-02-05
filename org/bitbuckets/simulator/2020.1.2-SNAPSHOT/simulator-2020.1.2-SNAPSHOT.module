@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "4n6en3s4mndgrojjmmhn2sgfjq"
+      "buildId": "7aywzca4vrdv5psuiqbjyfghzy"
     }
   },
   "variants": [
@@ -215,11 +215,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1001427,
-          "sha512": "504bb20253823724d605cfacb2098cefb651b677cb9096e67372cbe21c6538e28800190c7411de73f3815db0833982b7b3872e96d10fcd5a7134aae965e9b942",
-          "sha256": "18a8ce9bbb6d9375603616c409f4714046e918a9d724e0cb305f5bfca9fb8b37",
-          "sha1": "3959a7a3710ef0cef0e90a0ac51518a2f76487cf",
-          "md5": "70fb246bb2f36f9d65c9e2ccf4a384c2"
+          "size": 1001445,
+          "sha512": "2908a27dc9baf613bd6a15471c46150dd7349a9ca41ec78133ee32c7f65a9980480a60c1377ce1bf6c70508fd4818fd1e3f25ed4bca6c23d0bd8b1d0bb9ec70b",
+          "sha256": "ef4bbffbaf5965efa1be7357e3f4ffb6554257c48bceffca8d203780a4da8770",
+          "sha1": "c57912bb6f5325eafb3a29a0a66981d5d5e10ac4",
+          "md5": "db3c24f9dccd87929b8381da13e49cc0"
         }
       ]
     },
@@ -437,11 +437,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1001427,
-          "sha512": "504bb20253823724d605cfacb2098cefb651b677cb9096e67372cbe21c6538e28800190c7411de73f3815db0833982b7b3872e96d10fcd5a7134aae965e9b942",
-          "sha256": "18a8ce9bbb6d9375603616c409f4714046e918a9d724e0cb305f5bfca9fb8b37",
-          "sha1": "3959a7a3710ef0cef0e90a0ac51518a2f76487cf",
-          "md5": "70fb246bb2f36f9d65c9e2ccf4a384c2"
+          "size": 1001445,
+          "sha512": "2908a27dc9baf613bd6a15471c46150dd7349a9ca41ec78133ee32c7f65a9980480a60c1377ce1bf6c70508fd4818fd1e3f25ed4bca6c23d0bd8b1d0bb9ec70b",
+          "sha256": "ef4bbffbaf5965efa1be7357e3f4ffb6554257c48bceffca8d203780a4da8770",
+          "sha1": "c57912bb6f5325eafb3a29a0a66981d5d5e10ac4",
+          "md5": "db3c24f9dccd87929b8381da13e49cc0"
         }
       ]
     }
