@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "734247qumrbjzf53pnzmvxbpni"
+      "buildId": "4n6en3s4mndgrojjmmhn2sgfjq"
     }
   },
   "variants": [
@@ -215,11 +215,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1000348,
-          "sha512": "d9dc7cb1c482a59f0daa755757824db66d9205090abd6a680373a53cd2ae401b667c41d1444ce28c755b42e459e51554e7ca60e30dcea03cb89057303446fdaa",
-          "sha256": "f57d91846d185e9ef2e98c02d87ee7f3850cd4189d0f6d0c3ecba58883b0be5d",
-          "sha1": "2587fb96411cb7f8f5c9fe54d716db0b3b3f079f",
-          "md5": "f2f0aa369d7e69ee5adf050ea0c87b05"
+          "size": 1001427,
+          "sha512": "504bb20253823724d605cfacb2098cefb651b677cb9096e67372cbe21c6538e28800190c7411de73f3815db0833982b7b3872e96d10fcd5a7134aae965e9b942",
+          "sha256": "18a8ce9bbb6d9375603616c409f4714046e918a9d724e0cb305f5bfca9fb8b37",
+          "sha1": "3959a7a3710ef0cef0e90a0ac51518a2f76487cf",
+          "md5": "70fb246bb2f36f9d65c9e2ccf4a384c2"
         }
       ]
     },
@@ -437,11 +437,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1000348,
-          "sha512": "d9dc7cb1c482a59f0daa755757824db66d9205090abd6a680373a53cd2ae401b667c41d1444ce28c755b42e459e51554e7ca60e30dcea03cb89057303446fdaa",
-          "sha256": "f57d91846d185e9ef2e98c02d87ee7f3850cd4189d0f6d0c3ecba58883b0be5d",
-          "sha1": "2587fb96411cb7f8f5c9fe54d716db0b3b3f079f",
-          "md5": "f2f0aa369d7e69ee5adf050ea0c87b05"
+          "size": 1001427,
+          "sha512": "504bb20253823724d605cfacb2098cefb651b677cb9096e67372cbe21c6538e28800190c7411de73f3815db0833982b7b3872e96d10fcd5a7134aae965e9b942",
+          "sha256": "18a8ce9bbb6d9375603616c409f4714046e918a9d724e0cb305f5bfca9fb8b37",
+          "sha1": "3959a7a3710ef0cef0e90a0ac51518a2f76487cf",
+          "md5": "70fb246bb2f36f9d65c9e2ccf4a384c2"
         }
       ]
     }
