@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "xepum7b4gvhsplk3s2oexwl4xq"
+      "buildId": "734247qumrbjzf53pnzmvxbpni"
     }
   },
   "variants": [
@@ -43,21 +43,21 @@
           "group": "edu.wpi.first.wpilibj",
           "module": "wpilibj-java",
           "version": {
-            "requires": "2020.1.2"
+            "requires": "2020.2.2"
           }
         },
         {
           "group": "edu.wpi.first.ntcore",
           "module": "ntcore-java",
           "version": {
-            "requires": "2020.1.2"
+            "requires": "2020.2.2"
           }
         },
         {
           "group": "edu.wpi.first.wpiutil",
           "module": "wpiutil-java",
           "version": {
-            "requires": "2020.1.2"
+            "requires": "2020.2.2"
           }
         },
         {
@@ -71,21 +71,21 @@
           "group": "edu.wpi.first.cscore",
           "module": "cscore-java",
           "version": {
-            "requires": "2020.1.2"
+            "requires": "2020.2.2"
           }
         },
         {
           "group": "edu.wpi.first.cameraserver",
           "module": "cameraserver-java",
           "version": {
-            "requires": "2020.1.2"
+            "requires": "2020.2.2"
           }
         },
         {
           "group": "edu.wpi.first.hal",
           "module": "hal-java",
           "version": {
-            "requires": "2020.1.2"
+            "requires": "2020.2.2"
           }
         },
         {
@@ -215,11 +215,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 998359,
-          "sha512": "b62245f0e97fe242f2c09e9af259363c5d62f04640ba52053ba0631782e93f570ffd7c1eafbe680a22bbd529cad7a2b12a6f7afe0c54418ba4845fe7bf1b1487",
-          "sha256": "b6aa371d033e34feb8cc6772d279ad048d0d0cdef46f96371a9f716a3b604391",
-          "sha1": "a2e6105c2f7e3c79e64edf7d6a202d5d0d8176bb",
-          "md5": "96649d9ccbe9c6e065643989686e1e28"
+          "size": 1000348,
+          "sha512": "d9dc7cb1c482a59f0daa755757824db66d9205090abd6a680373a53cd2ae401b667c41d1444ce28c755b42e459e51554e7ca60e30dcea03cb89057303446fdaa",
+          "sha256": "f57d91846d185e9ef2e98c02d87ee7f3850cd4189d0f6d0c3ecba58883b0be5d",
+          "sha1": "2587fb96411cb7f8f5c9fe54d716db0b3b3f079f",
+          "md5": "f2f0aa369d7e69ee5adf050ea0c87b05"
         }
       ]
     },
@@ -265,21 +265,21 @@
           "group": "edu.wpi.first.wpilibj",
           "module": "wpilibj-java",
           "version": {
-            "requires": "2020.1.2"
+            "requires": "2020.2.2"
           }
         },
         {
           "group": "edu.wpi.first.ntcore",
           "module": "ntcore-java",
           "version": {
-            "requires": "2020.1.2"
+            "requires": "2020.2.2"
           }
         },
         {
           "group": "edu.wpi.first.wpiutil",
           "module": "wpiutil-java",
           "version": {
-            "requires": "2020.1.2"
+            "requires": "2020.2.2"
           }
         },
         {
@@ -293,21 +293,21 @@
           "group": "edu.wpi.first.cscore",
           "module": "cscore-java",
           "version": {
-            "requires": "2020.1.2"
+            "requires": "2020.2.2"
           }
         },
         {
           "group": "edu.wpi.first.cameraserver",
           "module": "cameraserver-java",
           "version": {
-            "requires": "2020.1.2"
+            "requires": "2020.2.2"
           }
         },
         {
           "group": "edu.wpi.first.hal",
           "module": "hal-java",
           "version": {
-            "requires": "2020.1.2"
+            "requires": "2020.2.2"
           }
         },
         {
@@ -437,11 +437,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 998359,
-          "sha512": "b62245f0e97fe242f2c09e9af259363c5d62f04640ba52053ba0631782e93f570ffd7c1eafbe680a22bbd529cad7a2b12a6f7afe0c54418ba4845fe7bf1b1487",
-          "sha256": "b6aa371d033e34feb8cc6772d279ad048d0d0cdef46f96371a9f716a3b604391",
-          "sha1": "a2e6105c2f7e3c79e64edf7d6a202d5d0d8176bb",
-          "md5": "96649d9ccbe9c6e065643989686e1e28"
+          "size": 1000348,
+          "sha512": "d9dc7cb1c482a59f0daa755757824db66d9205090abd6a680373a53cd2ae401b667c41d1444ce28c755b42e459e51554e7ca60e30dcea03cb89057303446fdaa",
+          "sha256": "f57d91846d185e9ef2e98c02d87ee7f3850cd4189d0f6d0c3ecba58883b0be5d",
+          "sha1": "2587fb96411cb7f8f5c9fe54d716db0b3b3f079f",
+          "md5": "f2f0aa369d7e69ee5adf050ea0c87b05"
         }
       ]
     }
