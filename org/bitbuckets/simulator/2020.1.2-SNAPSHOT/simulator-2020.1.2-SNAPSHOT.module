@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "u3srds2axrfnncwmnbjjp3w74m"
+      "buildId": "pjbl4ldjwzhilh7mxuxmnae7kq"
     }
   },
   "variants": [
@@ -258,11 +258,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1009073,
-          "sha512": "3e018549e73fbcf0b16556f6a36c9022d9baeac49b1724c7b4795b8895b449dc9d1ef37e45a6625bc1955da44701b8827e11155c59d70baa94a9d6cbd813358c",
-          "sha256": "aa2dfafba0208217f4fb4385796c87251d4affd4f0a40030d2ef84c5345e16e5",
-          "sha1": "1b45e8dd0c445b2c67065a0d70ab1ff5c7d47c3d",
-          "md5": "440c61acc200a3a62f4daa0ffe608489"
+          "size": 1009889,
+          "sha512": "c828fd546d5cca3ffc559310fc66be37253a4f77ecb975a101e61264d068a45b3b13b7aa49008d9b8ebe9994bd29c3807ee7e9c9d21222bde400f94a0817a102",
+          "sha256": "5ae827ed3f624261aac29579c681592738cf9d6e58bf72a133a252e34ef7b589",
+          "sha1": "fa984b950d166079af403629d53155c1e0b559cc",
+          "md5": "e9a501e027c72303b27fbcaac29540f3"
         }
       ]
     },
@@ -523,11 +523,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1009073,
-          "sha512": "3e018549e73fbcf0b16556f6a36c9022d9baeac49b1724c7b4795b8895b449dc9d1ef37e45a6625bc1955da44701b8827e11155c59d70baa94a9d6cbd813358c",
-          "sha256": "aa2dfafba0208217f4fb4385796c87251d4affd4f0a40030d2ef84c5345e16e5",
-          "sha1": "1b45e8dd0c445b2c67065a0d70ab1ff5c7d47c3d",
-          "md5": "440c61acc200a3a62f4daa0ffe608489"
+          "size": 1009889,
+          "sha512": "c828fd546d5cca3ffc559310fc66be37253a4f77ecb975a101e61264d068a45b3b13b7aa49008d9b8ebe9994bd29c3807ee7e9c9d21222bde400f94a0817a102",
+          "sha256": "5ae827ed3f624261aac29579c681592738cf9d6e58bf72a133a252e34ef7b589",
+          "sha1": "fa984b950d166079af403629d53155c1e0b559cc",
+          "md5": "e9a501e027c72303b27fbcaac29540f3"
         }
       ]
     }
