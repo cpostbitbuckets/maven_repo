@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "pjbl4ldjwzhilh7mxuxmnae7kq"
+      "buildId": "2dwh5j5rsrdkhajqgjwrtdrmpu"
     }
   },
   "variants": [
@@ -258,11 +258,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1009889,
-          "sha512": "c828fd546d5cca3ffc559310fc66be37253a4f77ecb975a101e61264d068a45b3b13b7aa49008d9b8ebe9994bd29c3807ee7e9c9d21222bde400f94a0817a102",
-          "sha256": "5ae827ed3f624261aac29579c681592738cf9d6e58bf72a133a252e34ef7b589",
-          "sha1": "fa984b950d166079af403629d53155c1e0b559cc",
-          "md5": "e9a501e027c72303b27fbcaac29540f3"
+          "size": 1010101,
+          "sha512": "21017a5bfcab7044c023547ba7ba736dc1b8bdefb838b20a962b96c867ee6791b4a0ae6ff9b8e57062bbf410f96f75aa662c749b3f4a7e27ec93245b2ec4aa9d",
+          "sha256": "9aca39896472f138985369d8752785a24e3b5ab85810ccec6b35633646c31cd4",
+          "sha1": "2de5a4c38408681752bcda54f6a3a33b26b528a3",
+          "md5": "138aae02d406cc9d1226273ad8931e63"
         }
       ]
     },
@@ -523,11 +523,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1009889,
-          "sha512": "c828fd546d5cca3ffc559310fc66be37253a4f77ecb975a101e61264d068a45b3b13b7aa49008d9b8ebe9994bd29c3807ee7e9c9d21222bde400f94a0817a102",
-          "sha256": "5ae827ed3f624261aac29579c681592738cf9d6e58bf72a133a252e34ef7b589",
-          "sha1": "fa984b950d166079af403629d53155c1e0b559cc",
-          "md5": "e9a501e027c72303b27fbcaac29540f3"
+          "size": 1010101,
+          "sha512": "21017a5bfcab7044c023547ba7ba736dc1b8bdefb838b20a962b96c867ee6791b4a0ae6ff9b8e57062bbf410f96f75aa662c749b3f4a7e27ec93245b2ec4aa9d",
+          "sha256": "9aca39896472f138985369d8752785a24e3b5ab85810ccec6b35633646c31cd4",
+          "sha1": "2de5a4c38408681752bcda54f6a3a33b26b528a3",
+          "md5": "138aae02d406cc9d1226273ad8931e63"
         }
       ]
     }
