@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "obwm2hedlzfjrbvyo4xs2xl3wy"
+      "buildId": "4p5doet5q5ehnfsx27mpa4rgx4"
     }
   },
   "variants": [
@@ -258,11 +258,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1008849,
-          "sha512": "cac4f63b65f6adae8ab97aacf2d4c98dc02fd9ef8a9ddc736fd260ebda05d278d1809fa1c590ef2ddaef5622b31a943204a7a1bdff2220387736c894e8875ab8",
-          "sha256": "ca37700b71375f51a352085cd1149d5545c47594f56087b20ab0fb5dc4437436",
-          "sha1": "28850d0efd5f74a198fc524c8058934e7c85ecc8",
-          "md5": "1a19d67028b8ee451ed5c19b8507e2bc"
+          "size": 1009073,
+          "sha512": "e2b9b1016246bd1c9969691fae3a7a03d542114a6cf17e0ee2ada0a77ef3862faa8c16884a3d462fd9ef59467ec5bfa6e994127ca323f82c458fe6b81055d62e",
+          "sha256": "da4c5e06890483028e5924a3047d940291ca904b34ae1ff4654cb626648aac30",
+          "sha1": "8b56dfdae589afd8420208fabadb883bf2c19c81",
+          "md5": "d7b6f7c314b38d807ffdd60d0c699220"
         }
       ]
     },
@@ -523,11 +523,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1008849,
-          "sha512": "cac4f63b65f6adae8ab97aacf2d4c98dc02fd9ef8a9ddc736fd260ebda05d278d1809fa1c590ef2ddaef5622b31a943204a7a1bdff2220387736c894e8875ab8",
-          "sha256": "ca37700b71375f51a352085cd1149d5545c47594f56087b20ab0fb5dc4437436",
-          "sha1": "28850d0efd5f74a198fc524c8058934e7c85ecc8",
-          "md5": "1a19d67028b8ee451ed5c19b8507e2bc"
+          "size": 1009073,
+          "sha512": "e2b9b1016246bd1c9969691fae3a7a03d542114a6cf17e0ee2ada0a77ef3862faa8c16884a3d462fd9ef59467ec5bfa6e994127ca323f82c458fe6b81055d62e",
+          "sha256": "da4c5e06890483028e5924a3047d940291ca904b34ae1ff4654cb626648aac30",
+          "sha1": "8b56dfdae589afd8420208fabadb883bf2c19c81",
+          "md5": "d7b6f7c314b38d807ffdd60d0c699220"
         }
       ]
     }
