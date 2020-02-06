@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "sypiyy6cbjdtzbvidz6hbodjbu"
+      "buildId": "u3srds2axrfnncwmnbjjp3w74m"
     }
   },
   "variants": [
@@ -259,10 +259,10 @@
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
           "size": 1009073,
-          "sha512": "17e85354eeee858b4cd6619b7f9619f490b7169562bbf87ee50faaa262f0c8ef1ad57453e479dbf3c0179e5608a31da0e21d1a70071a390a28ff5d9351eb08ae",
-          "sha256": "abd90de3ed09d02fb15c1e8c0068fbf15bab653769d1906877152dd86ff9e40c",
-          "sha1": "360f4d2f07f3f533a48bb675b447d74e84bfd3c4",
-          "md5": "cf925b804dbd60c5da4abcff7bf989e0"
+          "sha512": "3e018549e73fbcf0b16556f6a36c9022d9baeac49b1724c7b4795b8895b449dc9d1ef37e45a6625bc1955da44701b8827e11155c59d70baa94a9d6cbd813358c",
+          "sha256": "aa2dfafba0208217f4fb4385796c87251d4affd4f0a40030d2ef84c5345e16e5",
+          "sha1": "1b45e8dd0c445b2c67065a0d70ab1ff5c7d47c3d",
+          "md5": "440c61acc200a3a62f4daa0ffe608489"
         }
       ]
     },
@@ -524,10 +524,10 @@
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
           "size": 1009073,
-          "sha512": "17e85354eeee858b4cd6619b7f9619f490b7169562bbf87ee50faaa262f0c8ef1ad57453e479dbf3c0179e5608a31da0e21d1a70071a390a28ff5d9351eb08ae",
-          "sha256": "abd90de3ed09d02fb15c1e8c0068fbf15bab653769d1906877152dd86ff9e40c",
-          "sha1": "360f4d2f07f3f533a48bb675b447d74e84bfd3c4",
-          "md5": "cf925b804dbd60c5da4abcff7bf989e0"
+          "sha512": "3e018549e73fbcf0b16556f6a36c9022d9baeac49b1724c7b4795b8895b449dc9d1ef37e45a6625bc1955da44701b8827e11155c59d70baa94a9d6cbd813358c",
+          "sha256": "aa2dfafba0208217f4fb4385796c87251d4affd4f0a40030d2ef84c5345e16e5",
+          "sha1": "1b45e8dd0c445b2c67065a0d70ab1ff5c7d47c3d",
+          "md5": "440c61acc200a3a62f4daa0ffe608489"
         }
       ]
     }
