@@ -134,6 +134,24 @@
     </dependency>
     <dependency>
       <groupId>com.badlogicgames.gdx</groupId>
+      <artifactId>gdx</artifactId>
+      <version>1.9.10</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.badlogicgames.gdx</groupId>
+      <artifactId>gdx-box2d</artifactId>
+      <version>1.9.10</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.badlogicgames.gdx</groupId>
+      <artifactId>gdx-controllers</artifactId>
+      <version>1.9.10</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.badlogicgames.gdx</groupId>
       <artifactId>gdx-backend-lwjgl</artifactId>
       <version>1.9.10</version>
       <scope>compile</scope>
@@ -147,14 +165,9 @@
     </dependency>
     <dependency>
       <groupId>com.badlogicgames.gdx</groupId>
-      <artifactId>gdx-tools</artifactId>
+      <artifactId>gdx-box2d-platform</artifactId>
       <version>1.9.10</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.badlogicgames.gdx</groupId>
-      <artifactId>gdx-controllers</artifactId>
-      <version>1.9.10</version>
+      <classifier>natives-desktop</classifier>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -166,19 +179,6 @@
     <dependency>
       <groupId>com.badlogicgames.gdx</groupId>
       <artifactId>gdx-controllers-platform</artifactId>
-      <version>1.9.10</version>
-      <classifier>natives-desktop</classifier>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.badlogicgames.gdx</groupId>
-      <artifactId>gdx-box2d</artifactId>
-      <version>1.9.10</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.badlogicgames.gdx</groupId>
-      <artifactId>gdx-box2d-platform</artifactId>
       <version>1.9.10</version>
       <classifier>natives-desktop</classifier>
       <scope>compile</scope>
