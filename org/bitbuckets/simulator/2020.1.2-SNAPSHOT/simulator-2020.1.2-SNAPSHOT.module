@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "7aywzca4vrdv5psuiqbjyfghzy"
+      "buildId": "obwm2hedlzfjrbvyo4xs2xl3wy"
     }
   },
   "variants": [
@@ -175,6 +175,49 @@
         },
         {
           "group": "com.badlogicgames.gdx",
+          "module": "gdx-backend-lwjgl",
+          "version": {
+            "requires": "1.9.10"
+          }
+        },
+        {
+          "group": "com.badlogicgames.gdx",
+          "module": "gdx-platform",
+          "version": {
+            "requires": "1.9.10"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "gdx-platform",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-desktop"
+            }
+          }
+        },
+        {
+          "group": "com.badlogicgames.gdx",
+          "module": "gdx-tools",
+          "version": {
+            "requires": "1.9.10"
+          }
+        },
+        {
+          "group": "com.badlogicgames.gdx",
+          "module": "gdx-controllers",
+          "version": {
+            "requires": "1.9.10"
+          }
+        },
+        {
+          "group": "com.badlogicgames.gdx",
+          "module": "gdx-controllers-desktop",
+          "version": {
+            "requires": "1.9.10"
+          }
+        },
+        {
+          "group": "com.badlogicgames.gdx",
           "module": "gdx-controllers-platform",
           "version": {
             "requires": "1.9.10"
@@ -215,11 +258,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1001445,
-          "sha512": "2908a27dc9baf613bd6a15471c46150dd7349a9ca41ec78133ee32c7f65a9980480a60c1377ce1bf6c70508fd4818fd1e3f25ed4bca6c23d0bd8b1d0bb9ec70b",
-          "sha256": "ef4bbffbaf5965efa1be7357e3f4ffb6554257c48bceffca8d203780a4da8770",
-          "sha1": "c57912bb6f5325eafb3a29a0a66981d5d5e10ac4",
-          "md5": "db3c24f9dccd87929b8381da13e49cc0"
+          "size": 1008849,
+          "sha512": "cac4f63b65f6adae8ab97aacf2d4c98dc02fd9ef8a9ddc736fd260ebda05d278d1809fa1c590ef2ddaef5622b31a943204a7a1bdff2220387736c894e8875ab8",
+          "sha256": "ca37700b71375f51a352085cd1149d5545c47594f56087b20ab0fb5dc4437436",
+          "sha1": "28850d0efd5f74a198fc524c8058934e7c85ecc8",
+          "md5": "1a19d67028b8ee451ed5c19b8507e2bc"
         }
       ]
     },
@@ -397,6 +440,49 @@
         },
         {
           "group": "com.badlogicgames.gdx",
+          "module": "gdx-backend-lwjgl",
+          "version": {
+            "requires": "1.9.10"
+          }
+        },
+        {
+          "group": "com.badlogicgames.gdx",
+          "module": "gdx-platform",
+          "version": {
+            "requires": "1.9.10"
+          },
+          "thirdPartyCompatibility": {
+            "artifactSelector": {
+              "name": "gdx-platform",
+              "type": "jar",
+              "extension": "jar",
+              "classifier": "natives-desktop"
+            }
+          }
+        },
+        {
+          "group": "com.badlogicgames.gdx",
+          "module": "gdx-tools",
+          "version": {
+            "requires": "1.9.10"
+          }
+        },
+        {
+          "group": "com.badlogicgames.gdx",
+          "module": "gdx-controllers",
+          "version": {
+            "requires": "1.9.10"
+          }
+        },
+        {
+          "group": "com.badlogicgames.gdx",
+          "module": "gdx-controllers-desktop",
+          "version": {
+            "requires": "1.9.10"
+          }
+        },
+        {
+          "group": "com.badlogicgames.gdx",
           "module": "gdx-controllers-platform",
           "version": {
             "requires": "1.9.10"
@@ -437,11 +523,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1001445,
-          "sha512": "2908a27dc9baf613bd6a15471c46150dd7349a9ca41ec78133ee32c7f65a9980480a60c1377ce1bf6c70508fd4818fd1e3f25ed4bca6c23d0bd8b1d0bb9ec70b",
-          "sha256": "ef4bbffbaf5965efa1be7357e3f4ffb6554257c48bceffca8d203780a4da8770",
-          "sha1": "c57912bb6f5325eafb3a29a0a66981d5d5e10ac4",
-          "md5": "db3c24f9dccd87929b8381da13e49cc0"
+          "size": 1008849,
+          "sha512": "cac4f63b65f6adae8ab97aacf2d4c98dc02fd9ef8a9ddc736fd260ebda05d278d1809fa1c590ef2ddaef5622b31a943204a7a1bdff2220387736c894e8875ab8",
+          "sha256": "ca37700b71375f51a352085cd1149d5545c47594f56087b20ab0fb5dc4437436",
+          "sha1": "28850d0efd5f74a198fc524c8058934e7c85ecc8",
+          "md5": "1a19d67028b8ee451ed5c19b8507e2bc"
         }
       ]
     }
