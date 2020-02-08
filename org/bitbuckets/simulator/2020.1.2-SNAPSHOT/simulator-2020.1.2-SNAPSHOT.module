@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "p26ejxjcpvaw5etwddcjnzezyu"
+      "buildId": "oaytou2x7zbpxpq7tswmclrpiy"
     }
   },
   "variants": [
@@ -243,11 +243,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1012900,
-          "sha512": "ac549140822ddb7a91c9fbfe9d8e985d0f9a53aeb30e0c9418e8d9aaa2b1f7bcad968758a9417d805d90e2986e9f518094a7252a73fc402a2747af232d4533a0",
-          "sha256": "a5bdd2b3b61d3dfc04d7e7752b01c2bf5dbd5a3ee0d90fd96eaa3fefddce43b3",
-          "sha1": "96fb76d7cd8f46c423623f35a13e0ae37f5f4dfc",
-          "md5": "ad8cbbcb93afc799530b088256e30f5"
+          "size": 1012766,
+          "sha512": "c0ac4313ce901a6f0127d5cb6670dfbc958ecafb60ec42fd49f49a203ecc69580ae0069658d4adf923d62fd4d344ca70f4b36f11f4933f95eedd7d449db2e693",
+          "sha256": "21abb5eac2abb6d6840eec22e849a870d855500e338938673940f43407b9e505",
+          "sha1": "8c7e2f11eb7d49303534fea34828cfd24f8e11d2",
+          "md5": "7227d4f437d16359f493b35ca01843b9"
         }
       ]
     },
@@ -493,11 +493,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1012900,
-          "sha512": "ac549140822ddb7a91c9fbfe9d8e985d0f9a53aeb30e0c9418e8d9aaa2b1f7bcad968758a9417d805d90e2986e9f518094a7252a73fc402a2747af232d4533a0",
-          "sha256": "a5bdd2b3b61d3dfc04d7e7752b01c2bf5dbd5a3ee0d90fd96eaa3fefddce43b3",
-          "sha1": "96fb76d7cd8f46c423623f35a13e0ae37f5f4dfc",
-          "md5": "ad8cbbcb93afc799530b088256e30f5"
+          "size": 1012766,
+          "sha512": "c0ac4313ce901a6f0127d5cb6670dfbc958ecafb60ec42fd49f49a203ecc69580ae0069658d4adf923d62fd4d344ca70f4b36f11f4933f95eedd7d449db2e693",
+          "sha256": "21abb5eac2abb6d6840eec22e849a870d855500e338938673940f43407b9e505",
+          "sha1": "8c7e2f11eb7d49303534fea34828cfd24f8e11d2",
+          "md5": "7227d4f437d16359f493b35ca01843b9"
         }
       ]
     }
