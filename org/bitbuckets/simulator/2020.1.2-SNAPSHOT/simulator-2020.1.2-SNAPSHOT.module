@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "oaytou2x7zbpxpq7tswmclrpiy"
+      "buildId": "7osdo67vzzetdmy6kgx6r6mije"
     }
   },
   "variants": [
@@ -243,11 +243,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1012766,
-          "sha512": "c0ac4313ce901a6f0127d5cb6670dfbc958ecafb60ec42fd49f49a203ecc69580ae0069658d4adf923d62fd4d344ca70f4b36f11f4933f95eedd7d449db2e693",
-          "sha256": "21abb5eac2abb6d6840eec22e849a870d855500e338938673940f43407b9e505",
-          "sha1": "8c7e2f11eb7d49303534fea34828cfd24f8e11d2",
-          "md5": "7227d4f437d16359f493b35ca01843b9"
+          "size": 1778253,
+          "sha512": "906292b6ac069cefdc2f7d4866418fff3000263c2f5195fdc5dce60d73cee035a973470a3e87243fc6bfcb08b6fe5c70b4b38672c6b8a33e8fad4c41cb5741dc",
+          "sha256": "b9c4e3e008ca609fd0f196176f50a39c6b326bd4d9e7b8c0d4f45266f92f76e7",
+          "sha1": "1c815fd703bc57e189ee8ce45dadcb72a1d7bad2",
+          "md5": "25fd8102b27d698a8e9c80b3c191b5ed"
         }
       ]
     },
@@ -493,11 +493,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1012766,
-          "sha512": "c0ac4313ce901a6f0127d5cb6670dfbc958ecafb60ec42fd49f49a203ecc69580ae0069658d4adf923d62fd4d344ca70f4b36f11f4933f95eedd7d449db2e693",
-          "sha256": "21abb5eac2abb6d6840eec22e849a870d855500e338938673940f43407b9e505",
-          "sha1": "8c7e2f11eb7d49303534fea34828cfd24f8e11d2",
-          "md5": "7227d4f437d16359f493b35ca01843b9"
+          "size": 1778253,
+          "sha512": "906292b6ac069cefdc2f7d4866418fff3000263c2f5195fdc5dce60d73cee035a973470a3e87243fc6bfcb08b6fe5c70b4b38672c6b8a33e8fad4c41cb5741dc",
+          "sha256": "b9c4e3e008ca609fd0f196176f50a39c6b326bd4d9e7b8c0d4f45266f92f76e7",
+          "sha1": "1c815fd703bc57e189ee8ce45dadcb72a1d7bad2",
+          "md5": "25fd8102b27d698a8e9c80b3c191b5ed"
         }
       ]
     }
