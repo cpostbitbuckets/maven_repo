@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "wt5cak6qn5cj3bxvfspfzvqo4a"
+      "buildId": "tyzn2gfbszbfnmyhb7hvm7rjua"
     }
   },
   "variants": [
@@ -243,11 +243,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1778295,
-          "sha512": "4560f27223f0c828437d4a265c3186eff92199ddc9bb7e7bfb6821be4695b58ed6aace74047114418af4c86e225955ddf7457ee35053763ce63fdbc97517c05e",
-          "sha256": "a1c62b2ae190fb7d6d851cb73fca8cd5927f4119aa41fb962bfc9d053c4609d4",
-          "sha1": "420efc8e8e8fc8448a09f06b099979a9abc4eeeb",
-          "md5": "c7d2770814a0a713efe51906f5b3153e"
+          "size": 1778502,
+          "sha512": "741383e942a534a100d6858c6d155664b4c979875867d72bb9a95bb3324c81f711a3a4d76bf81239fee7a09b06051014244776a4f0414d8fa89ff1e15b5ce06b",
+          "sha256": "d82423a018fba6d04e41e5848f0e34cacb4cf68f8861678447e300277cce3162",
+          "sha1": "9c6d29f342422a8cc140588399fdf5986996f73a",
+          "md5": "7bb6ea00db67f4d221d31498027779cf"
         }
       ]
     },
@@ -493,11 +493,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1778295,
-          "sha512": "4560f27223f0c828437d4a265c3186eff92199ddc9bb7e7bfb6821be4695b58ed6aace74047114418af4c86e225955ddf7457ee35053763ce63fdbc97517c05e",
-          "sha256": "a1c62b2ae190fb7d6d851cb73fca8cd5927f4119aa41fb962bfc9d053c4609d4",
-          "sha1": "420efc8e8e8fc8448a09f06b099979a9abc4eeeb",
-          "md5": "c7d2770814a0a713efe51906f5b3153e"
+          "size": 1778502,
+          "sha512": "741383e942a534a100d6858c6d155664b4c979875867d72bb9a95bb3324c81f711a3a4d76bf81239fee7a09b06051014244776a4f0414d8fa89ff1e15b5ce06b",
+          "sha256": "d82423a018fba6d04e41e5848f0e34cacb4cf68f8861678447e300277cce3162",
+          "sha1": "9c6d29f342422a8cc140588399fdf5986996f73a",
+          "md5": "7bb6ea00db67f4d221d31498027779cf"
         }
       ]
     }
