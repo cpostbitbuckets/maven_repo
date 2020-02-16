@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "tyzn2gfbszbfnmyhb7hvm7rjua"
+      "buildId": "rj3olnytxrge7jfbxbsavglpqy"
     }
   },
   "variants": [
@@ -243,11 +243,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1778502,
-          "sha512": "741383e942a534a100d6858c6d155664b4c979875867d72bb9a95bb3324c81f711a3a4d76bf81239fee7a09b06051014244776a4f0414d8fa89ff1e15b5ce06b",
-          "sha256": "d82423a018fba6d04e41e5848f0e34cacb4cf68f8861678447e300277cce3162",
-          "sha1": "9c6d29f342422a8cc140588399fdf5986996f73a",
-          "md5": "7bb6ea00db67f4d221d31498027779cf"
+          "size": 1778503,
+          "sha512": "d5f4eaa67edbb636f279f3a37af478fdcdf0f823fda9bed649672b965ec077ca38761adee3d7be280fffea8a26ee7c1a12ca6b897794cf8852e446827f020347",
+          "sha256": "e946f91068ba45aebe781513be5a5655c9fc9ad03a1e0e966108ef268e2b57e2",
+          "sha1": "49a687413a8ba0d88714f894b1a6c1b16c6cd79b",
+          "md5": "810760a6ef24c8b91e7939139cac41e7"
         }
       ]
     },
@@ -493,11 +493,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1778502,
-          "sha512": "741383e942a534a100d6858c6d155664b4c979875867d72bb9a95bb3324c81f711a3a4d76bf81239fee7a09b06051014244776a4f0414d8fa89ff1e15b5ce06b",
-          "sha256": "d82423a018fba6d04e41e5848f0e34cacb4cf68f8861678447e300277cce3162",
-          "sha1": "9c6d29f342422a8cc140588399fdf5986996f73a",
-          "md5": "7bb6ea00db67f4d221d31498027779cf"
+          "size": 1778503,
+          "sha512": "d5f4eaa67edbb636f279f3a37af478fdcdf0f823fda9bed649672b965ec077ca38761adee3d7be280fffea8a26ee7c1a12ca6b897794cf8852e446827f020347",
+          "sha256": "e946f91068ba45aebe781513be5a5655c9fc9ad03a1e0e966108ef268e2b57e2",
+          "sha1": "49a687413a8ba0d88714f894b1a6c1b16c6cd79b",
+          "md5": "810760a6ef24c8b91e7939139cac41e7"
         }
       ]
     }
