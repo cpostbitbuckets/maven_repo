@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "qfnwh2pqtzgnpj2t7hfb4ldg4m"
+      "buildId": "xaomfcg665h7ni3hqjhspyen3y"
     }
   },
   "variants": [
@@ -243,11 +243,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1769258,
-          "sha512": "840db33f175aaefc83df647c1a235a2c5cb69fefb8c9b711092402b4acb708bbdccb9cf21cad9355b201adfd6dafe822f339440fc6fe7973d22228f107008877",
-          "sha256": "e97a8c6af906e914a0cd900d0d69369d2dcfb10cee0a91f5a2fd9d44d44d190d",
-          "sha1": "b1e76df8036e45fdb73cdbb4771f37948c58deab",
-          "md5": "12cd9c0f4589a1e3fd1bc540ec09413c"
+          "size": 1769255,
+          "sha512": "74a703dbe323e1b7a7847adf26d21060f985f5e4f25b856950c837401839bd46fe74f9786cbc599dd79493d89e576dce56130ebdfff51253f52b1cb8ed53995",
+          "sha256": "ed4f98af4d37fc7e7acac34d55ade5cc6956bbb4c6f361214f4e3fd1b5edaaf8",
+          "sha1": "55ee4d62710df8cd90a94f5903cc3fbaa405c100",
+          "md5": "d5489204d24fe891e1888ac70a122600"
         }
       ]
     },
@@ -493,11 +493,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1769258,
-          "sha512": "840db33f175aaefc83df647c1a235a2c5cb69fefb8c9b711092402b4acb708bbdccb9cf21cad9355b201adfd6dafe822f339440fc6fe7973d22228f107008877",
-          "sha256": "e97a8c6af906e914a0cd900d0d69369d2dcfb10cee0a91f5a2fd9d44d44d190d",
-          "sha1": "b1e76df8036e45fdb73cdbb4771f37948c58deab",
-          "md5": "12cd9c0f4589a1e3fd1bc540ec09413c"
+          "size": 1769255,
+          "sha512": "74a703dbe323e1b7a7847adf26d21060f985f5e4f25b856950c837401839bd46fe74f9786cbc599dd79493d89e576dce56130ebdfff51253f52b1cb8ed53995",
+          "sha256": "ed4f98af4d37fc7e7acac34d55ade5cc6956bbb4c6f361214f4e3fd1b5edaaf8",
+          "sha1": "55ee4d62710df8cd90a94f5903cc3fbaa405c100",
+          "md5": "d5489204d24fe891e1888ac70a122600"
         }
       ]
     }
