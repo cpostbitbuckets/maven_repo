@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "x5f7ysokzjgndickfwmrh4zmxa"
+      "buildId": "c7yu3z6bdnhlrfttewymrx3brm"
     }
   },
   "variants": [
@@ -243,11 +243,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1769247,
-          "sha512": "b8b6ab61c2876add81cd4955d9cd127fdd38948e62eb92327fdcbf2c66406b4505dd857dc2ac28b11b0b934d18bedfbba1670e7da95f9587828075669b4cf07e",
-          "sha256": "52e3e5ddbb3870b64199836c54e14e72b0f4b23354361948c1993d41934f5fb1",
-          "sha1": "f4b195b313a9585a49e28eefb356b6187e7216ba",
-          "md5": "16067a14a13cdfc127f72d2c352d0ae2"
+          "size": 1769381,
+          "sha512": "adacc5be9dd43930b9e16950c7506ac100ea7f04127349b3b26be8375731cf5ce20333121da8e0b2bbcc938568704d5d5ed50ea226097b244f8e87a6e2e1ce1",
+          "sha256": "2156076096cb4d8497e39fd80c026dd36689cb422fd582a38be51e2d5d2aa26f",
+          "sha1": "1a538cb226b73535268a4f4e26a71bfe684b7f64",
+          "md5": "e4b16741d59ad4bc6b8ba8190a03ce87"
         }
       ]
     },
@@ -493,11 +493,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1769247,
-          "sha512": "b8b6ab61c2876add81cd4955d9cd127fdd38948e62eb92327fdcbf2c66406b4505dd857dc2ac28b11b0b934d18bedfbba1670e7da95f9587828075669b4cf07e",
-          "sha256": "52e3e5ddbb3870b64199836c54e14e72b0f4b23354361948c1993d41934f5fb1",
-          "sha1": "f4b195b313a9585a49e28eefb356b6187e7216ba",
-          "md5": "16067a14a13cdfc127f72d2c352d0ae2"
+          "size": 1769381,
+          "sha512": "adacc5be9dd43930b9e16950c7506ac100ea7f04127349b3b26be8375731cf5ce20333121da8e0b2bbcc938568704d5d5ed50ea226097b244f8e87a6e2e1ce1",
+          "sha256": "2156076096cb4d8497e39fd80c026dd36689cb422fd582a38be51e2d5d2aa26f",
+          "sha1": "1a538cb226b73535268a4f4e26a71bfe684b7f64",
+          "md5": "e4b16741d59ad4bc6b8ba8190a03ce87"
         }
       ]
     }
