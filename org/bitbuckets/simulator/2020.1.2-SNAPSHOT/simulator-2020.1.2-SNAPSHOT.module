@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "c7yu3z6bdnhlrfttewymrx3brm"
+      "buildId": "nhrflg36rvbhtnobrt3ju6ci4m"
     }
   },
   "variants": [
@@ -243,11 +243,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1769381,
-          "sha512": "adacc5be9dd43930b9e16950c7506ac100ea7f04127349b3b26be8375731cf5ce20333121da8e0b2bbcc938568704d5d5ed50ea226097b244f8e87a6e2e1ce1",
-          "sha256": "2156076096cb4d8497e39fd80c026dd36689cb422fd582a38be51e2d5d2aa26f",
-          "sha1": "1a538cb226b73535268a4f4e26a71bfe684b7f64",
-          "md5": "e4b16741d59ad4bc6b8ba8190a03ce87"
+          "size": 1769377,
+          "sha512": "d4daec56bd7d593a7fe380b86e26243a3ca85e06521131aaedaf779a784736dca427f516cf0fd5129658fba3efa78ab628b1b76f299edcd8c3eca04b175a25ba",
+          "sha256": "350b482de2164f376204b72376d62c9a1e0bb587ebde299f0685f0356d47c444",
+          "sha1": "507005fe31e92a3b2f243749d44ac1b04bcfbbcc",
+          "md5": "306c7a55ed0e716a2043a6f23adc67ff"
         }
       ]
     },
@@ -493,11 +493,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1769381,
-          "sha512": "adacc5be9dd43930b9e16950c7506ac100ea7f04127349b3b26be8375731cf5ce20333121da8e0b2bbcc938568704d5d5ed50ea226097b244f8e87a6e2e1ce1",
-          "sha256": "2156076096cb4d8497e39fd80c026dd36689cb422fd582a38be51e2d5d2aa26f",
-          "sha1": "1a538cb226b73535268a4f4e26a71bfe684b7f64",
-          "md5": "e4b16741d59ad4bc6b8ba8190a03ce87"
+          "size": 1769377,
+          "sha512": "d4daec56bd7d593a7fe380b86e26243a3ca85e06521131aaedaf779a784736dca427f516cf0fd5129658fba3efa78ab628b1b76f299edcd8c3eca04b175a25ba",
+          "sha256": "350b482de2164f376204b72376d62c9a1e0bb587ebde299f0685f0356d47c444",
+          "sha1": "507005fe31e92a3b2f243749d44ac1b04bcfbbcc",
+          "md5": "306c7a55ed0e716a2043a6f23adc67ff"
         }
       ]
     }
