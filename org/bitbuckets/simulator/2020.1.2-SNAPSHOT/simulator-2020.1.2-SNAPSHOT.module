@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "xaomfcg665h7ni3hqjhspyen3y"
+      "buildId": "x5f7ysokzjgndickfwmrh4zmxa"
     }
   },
   "variants": [
@@ -243,11 +243,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1769255,
-          "sha512": "74a703dbe323e1b7a7847adf26d21060f985f5e4f25b856950c837401839bd46fe74f9786cbc599dd79493d89e576dce56130ebdfff51253f52b1cb8ed53995",
-          "sha256": "ed4f98af4d37fc7e7acac34d55ade5cc6956bbb4c6f361214f4e3fd1b5edaaf8",
-          "sha1": "55ee4d62710df8cd90a94f5903cc3fbaa405c100",
-          "md5": "d5489204d24fe891e1888ac70a122600"
+          "size": 1769247,
+          "sha512": "b8b6ab61c2876add81cd4955d9cd127fdd38948e62eb92327fdcbf2c66406b4505dd857dc2ac28b11b0b934d18bedfbba1670e7da95f9587828075669b4cf07e",
+          "sha256": "52e3e5ddbb3870b64199836c54e14e72b0f4b23354361948c1993d41934f5fb1",
+          "sha1": "f4b195b313a9585a49e28eefb356b6187e7216ba",
+          "md5": "16067a14a13cdfc127f72d2c352d0ae2"
         }
       ]
     },
@@ -493,11 +493,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1769255,
-          "sha512": "74a703dbe323e1b7a7847adf26d21060f985f5e4f25b856950c837401839bd46fe74f9786cbc599dd79493d89e576dce56130ebdfff51253f52b1cb8ed53995",
-          "sha256": "ed4f98af4d37fc7e7acac34d55ade5cc6956bbb4c6f361214f4e3fd1b5edaaf8",
-          "sha1": "55ee4d62710df8cd90a94f5903cc3fbaa405c100",
-          "md5": "d5489204d24fe891e1888ac70a122600"
+          "size": 1769247,
+          "sha512": "b8b6ab61c2876add81cd4955d9cd127fdd38948e62eb92327fdcbf2c66406b4505dd857dc2ac28b11b0b934d18bedfbba1670e7da95f9587828075669b4cf07e",
+          "sha256": "52e3e5ddbb3870b64199836c54e14e72b0f4b23354361948c1993d41934f5fb1",
+          "sha1": "f4b195b313a9585a49e28eefb356b6187e7216ba",
+          "md5": "16067a14a13cdfc127f72d2c352d0ae2"
         }
       ]
     }
