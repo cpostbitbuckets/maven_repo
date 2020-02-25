@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "nhrflg36rvbhtnobrt3ju6ci4m"
+      "buildId": "ln3tegf3zzcihfevjmzty7zg6u"
     }
   },
   "variants": [
@@ -243,11 +243,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1769377,
-          "sha512": "d4daec56bd7d593a7fe380b86e26243a3ca85e06521131aaedaf779a784736dca427f516cf0fd5129658fba3efa78ab628b1b76f299edcd8c3eca04b175a25ba",
-          "sha256": "350b482de2164f376204b72376d62c9a1e0bb587ebde299f0685f0356d47c444",
-          "sha1": "507005fe31e92a3b2f243749d44ac1b04bcfbbcc",
-          "md5": "306c7a55ed0e716a2043a6f23adc67ff"
+          "size": 1771191,
+          "sha512": "5a79f8abb1d1a9d9445a01a506163c04c0b09895967009870fe8e9bc281482307580450e34a93e234fedc69b80fa1172da212d28e9045c5e3abe932e569ede6",
+          "sha256": "b6a5adda50ed1a2a1ea235bebe3b92498730de15cf6fddf56feec1d5d715843c",
+          "sha1": "fab343a0c9edc8346486b415ec2c1f1dba76a34c",
+          "md5": "7203a04b48fd1853e919fe83fde5fe50"
         }
       ]
     },
@@ -493,11 +493,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1769377,
-          "sha512": "d4daec56bd7d593a7fe380b86e26243a3ca85e06521131aaedaf779a784736dca427f516cf0fd5129658fba3efa78ab628b1b76f299edcd8c3eca04b175a25ba",
-          "sha256": "350b482de2164f376204b72376d62c9a1e0bb587ebde299f0685f0356d47c444",
-          "sha1": "507005fe31e92a3b2f243749d44ac1b04bcfbbcc",
-          "md5": "306c7a55ed0e716a2043a6f23adc67ff"
+          "size": 1771191,
+          "sha512": "5a79f8abb1d1a9d9445a01a506163c04c0b09895967009870fe8e9bc281482307580450e34a93e234fedc69b80fa1172da212d28e9045c5e3abe932e569ede6",
+          "sha256": "b6a5adda50ed1a2a1ea235bebe3b92498730de15cf6fddf56feec1d5d715843c",
+          "sha1": "fab343a0c9edc8346486b415ec2c1f1dba76a34c",
+          "md5": "7203a04b48fd1853e919fe83fde5fe50"
         }
       ]
     }
