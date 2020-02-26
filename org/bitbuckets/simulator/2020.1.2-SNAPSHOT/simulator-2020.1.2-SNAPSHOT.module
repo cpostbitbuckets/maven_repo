@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "eurzzp57qne7xmzjmbmd3s6lxi"
+      "buildId": "2zq6bi4qejadvnalcl6ahxmr3a"
     }
   },
   "variants": [
@@ -243,11 +243,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1771233,
-          "sha512": "39b58afdfbc9ca8a19fda2361b67e16c019a8d16b7cea1687738b2e09fd7595cae50be1d2913144b624590171ead09569f6efbd0ed01b289a8f6295a3ec6ed13",
-          "sha256": "af4e33b54fe697b690d1de72dbf35e8d14ddb838d3ca3df35b25934d2a3dc07",
-          "sha1": "d1c014491c204c8be2d8ee21e46cc43a9b618675",
-          "md5": "2dd4422609f5f6bd97cdb50662faa6f3"
+          "size": 1771227,
+          "sha512": "99cafca1c481a0553d56a679f385b76ce3ba0a7ca7d19e3f2b6572f81c31cf94ec82fbb3804ad66e7a360bf8e8c9a755f273f5570830c8f74537f78e36614d59",
+          "sha256": "2d47ed3471fe52596ec18e41ec49739636146c527e455d6f657132e24f3b31fa",
+          "sha1": "10311063aa976efd067981865a46f2e2c618bcc0",
+          "md5": "852eda1807c043da5d344988d845563a"
         }
       ]
     },
@@ -493,11 +493,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1771233,
-          "sha512": "39b58afdfbc9ca8a19fda2361b67e16c019a8d16b7cea1687738b2e09fd7595cae50be1d2913144b624590171ead09569f6efbd0ed01b289a8f6295a3ec6ed13",
-          "sha256": "af4e33b54fe697b690d1de72dbf35e8d14ddb838d3ca3df35b25934d2a3dc07",
-          "sha1": "d1c014491c204c8be2d8ee21e46cc43a9b618675",
-          "md5": "2dd4422609f5f6bd97cdb50662faa6f3"
+          "size": 1771227,
+          "sha512": "99cafca1c481a0553d56a679f385b76ce3ba0a7ca7d19e3f2b6572f81c31cf94ec82fbb3804ad66e7a360bf8e8c9a755f273f5570830c8f74537f78e36614d59",
+          "sha256": "2d47ed3471fe52596ec18e41ec49739636146c527e455d6f657132e24f3b31fa",
+          "sha1": "10311063aa976efd067981865a46f2e2c618bcc0",
+          "md5": "852eda1807c043da5d344988d845563a"
         }
       ]
     }
