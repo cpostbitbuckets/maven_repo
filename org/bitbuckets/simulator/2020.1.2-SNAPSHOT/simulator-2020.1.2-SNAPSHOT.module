@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "2zq6bi4qejadvnalcl6ahxmr3a"
+      "buildId": "346bapujybdtxkld466kaaha6i"
     }
   },
   "variants": [
@@ -243,11 +243,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1771227,
-          "sha512": "99cafca1c481a0553d56a679f385b76ce3ba0a7ca7d19e3f2b6572f81c31cf94ec82fbb3804ad66e7a360bf8e8c9a755f273f5570830c8f74537f78e36614d59",
-          "sha256": "2d47ed3471fe52596ec18e41ec49739636146c527e455d6f657132e24f3b31fa",
-          "sha1": "10311063aa976efd067981865a46f2e2c618bcc0",
-          "md5": "852eda1807c043da5d344988d845563a"
+          "size": 1772582,
+          "sha512": "60ffa779cf3bd60d75af98fa9b621ab895589bd518bbc86700d85fba11c43a38e68a8384db705b0bf638e70cfc3ad7c0df71ccc3ebb035f98ac31018abc1dd19",
+          "sha256": "bba0fcbe322222e399fde0ab4d2a4518d946697728325fb4c3b0ed687edf7d08",
+          "sha1": "de4374b904ac0041349714dbf7b0731815235cc",
+          "md5": "beef1dcd005a7ec38db251522ccac8de"
         }
       ]
     },
@@ -493,11 +493,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1771227,
-          "sha512": "99cafca1c481a0553d56a679f385b76ce3ba0a7ca7d19e3f2b6572f81c31cf94ec82fbb3804ad66e7a360bf8e8c9a755f273f5570830c8f74537f78e36614d59",
-          "sha256": "2d47ed3471fe52596ec18e41ec49739636146c527e455d6f657132e24f3b31fa",
-          "sha1": "10311063aa976efd067981865a46f2e2c618bcc0",
-          "md5": "852eda1807c043da5d344988d845563a"
+          "size": 1772582,
+          "sha512": "60ffa779cf3bd60d75af98fa9b621ab895589bd518bbc86700d85fba11c43a38e68a8384db705b0bf638e70cfc3ad7c0df71ccc3ebb035f98ac31018abc1dd19",
+          "sha256": "bba0fcbe322222e399fde0ab4d2a4518d946697728325fb4c3b0ed687edf7d08",
+          "sha1": "de4374b904ac0041349714dbf7b0731815235cc",
+          "md5": "beef1dcd005a7ec38db251522ccac8de"
         }
       ]
     }
