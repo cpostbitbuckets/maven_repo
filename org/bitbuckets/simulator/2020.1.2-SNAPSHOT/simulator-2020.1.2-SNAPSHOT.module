@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "346bapujybdtxkld466kaaha6i"
+      "buildId": "ic7upg5aenf6piky6u3fzplmji"
     }
   },
   "variants": [
@@ -243,11 +243,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1772582,
-          "sha512": "60ffa779cf3bd60d75af98fa9b621ab895589bd518bbc86700d85fba11c43a38e68a8384db705b0bf638e70cfc3ad7c0df71ccc3ebb035f98ac31018abc1dd19",
-          "sha256": "bba0fcbe322222e399fde0ab4d2a4518d946697728325fb4c3b0ed687edf7d08",
-          "sha1": "de4374b904ac0041349714dbf7b0731815235cc",
-          "md5": "beef1dcd005a7ec38db251522ccac8de"
+          "size": 1774211,
+          "sha512": "ba6c5e5cedf23b7556a485d45c3f9244649402bfb5e41a30af00a8ad3d5300d21d7136e0ba3bf120fa07e4226b2be94bcd87cdd3b591a074664f52e586288d50",
+          "sha256": "7d00e2b95e9d6d1c7772857c548543682d2d36f8a107af76bd48044b686312b4",
+          "sha1": "1e2243b38b0d735c13ef37e34b7fed406e6b6f22",
+          "md5": "805cd0fdb45322d21cafc7e52dd38041"
         }
       ]
     },
@@ -493,11 +493,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1772582,
-          "sha512": "60ffa779cf3bd60d75af98fa9b621ab895589bd518bbc86700d85fba11c43a38e68a8384db705b0bf638e70cfc3ad7c0df71ccc3ebb035f98ac31018abc1dd19",
-          "sha256": "bba0fcbe322222e399fde0ab4d2a4518d946697728325fb4c3b0ed687edf7d08",
-          "sha1": "de4374b904ac0041349714dbf7b0731815235cc",
-          "md5": "beef1dcd005a7ec38db251522ccac8de"
+          "size": 1774211,
+          "sha512": "ba6c5e5cedf23b7556a485d45c3f9244649402bfb5e41a30af00a8ad3d5300d21d7136e0ba3bf120fa07e4226b2be94bcd87cdd3b591a074664f52e586288d50",
+          "sha256": "7d00e2b95e9d6d1c7772857c548543682d2d36f8a107af76bd48044b686312b4",
+          "sha1": "1e2243b38b0d735c13ef37e34b7fed406e6b6f22",
+          "md5": "805cd0fdb45322d21cafc7e52dd38041"
         }
       ]
     }
