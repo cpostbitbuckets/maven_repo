@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "dyeddcikkraujo2rwa2oul2xde"
+      "buildId": "g7ztgdxourhstpy5degekxybpe"
     }
   },
   "variants": [
@@ -243,11 +243,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1774908,
-          "sha512": "af852917338f62bef58d7528176a6548835c8f805a2585218a9cf7d9f8f6d9aa0986744b4ae81a98d980ed2d449846a5ee8776d93ac37f0e124ee2780c5d33ec",
-          "sha256": "9c05aa9e745f7944f45d7377b8982fed470af3d56297c9d682820020d51d3946",
-          "sha1": "830aa6deb5067b340669b3fcf9f655a1910b048d",
-          "md5": "c027ce57aabac42510e43bf58a5679e0"
+          "size": 1775145,
+          "sha512": "d134cb4a6fcc1ef89a704e4b1e41ffc8b3988cbd9d0e0934d51cb4a17b3dfe2a63762703f658e64b735095bea98c8ce3fdafe195adbdd54aca12d84cdbe5ff19",
+          "sha256": "6f5e6bc485332a6e5a9a380706a142587310ef06cec77e5c70b29c8a8f6e6c9e",
+          "sha1": "2e5774f505667cdb721298bf6416cf4abe9a54ca",
+          "md5": "96125d8c2ae128e8cd226c640e03f4"
         }
       ]
     },
@@ -493,11 +493,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1774908,
-          "sha512": "af852917338f62bef58d7528176a6548835c8f805a2585218a9cf7d9f8f6d9aa0986744b4ae81a98d980ed2d449846a5ee8776d93ac37f0e124ee2780c5d33ec",
-          "sha256": "9c05aa9e745f7944f45d7377b8982fed470af3d56297c9d682820020d51d3946",
-          "sha1": "830aa6deb5067b340669b3fcf9f655a1910b048d",
-          "md5": "c027ce57aabac42510e43bf58a5679e0"
+          "size": 1775145,
+          "sha512": "d134cb4a6fcc1ef89a704e4b1e41ffc8b3988cbd9d0e0934d51cb4a17b3dfe2a63762703f658e64b735095bea98c8ce3fdafe195adbdd54aca12d84cdbe5ff19",
+          "sha256": "6f5e6bc485332a6e5a9a380706a142587310ef06cec77e5c70b29c8a8f6e6c9e",
+          "sha1": "2e5774f505667cdb721298bf6416cf4abe9a54ca",
+          "md5": "96125d8c2ae128e8cd226c640e03f4"
         }
       ]
     }
