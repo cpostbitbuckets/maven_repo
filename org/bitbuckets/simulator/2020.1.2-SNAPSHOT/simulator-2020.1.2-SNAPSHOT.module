@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "mhvmzlv35zbinkca7hswzrrgsi"
+      "buildId": "dyeddcikkraujo2rwa2oul2xde"
     }
   },
   "variants": [
@@ -243,11 +243,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1774887,
-          "sha512": "4f20c186a474c507bb66c0e6e7c0249db286dc9cb526d10a257bfa3d810403159c1c5f9792c46ea0b93775596f9bef4fc23fe436782db50322570d01158405f4",
-          "sha256": "d8b43160261df413ea314e4839670555fd39e5b551392fdbe9a67edcbb5faece",
-          "sha1": "f21d3d6b2812d205876448ca344c556c25ba9d27",
-          "md5": "2841f0fc07449a6511cb8eed58a6ab3"
+          "size": 1774908,
+          "sha512": "af852917338f62bef58d7528176a6548835c8f805a2585218a9cf7d9f8f6d9aa0986744b4ae81a98d980ed2d449846a5ee8776d93ac37f0e124ee2780c5d33ec",
+          "sha256": "9c05aa9e745f7944f45d7377b8982fed470af3d56297c9d682820020d51d3946",
+          "sha1": "830aa6deb5067b340669b3fcf9f655a1910b048d",
+          "md5": "c027ce57aabac42510e43bf58a5679e0"
         }
       ]
     },
@@ -493,11 +493,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1774887,
-          "sha512": "4f20c186a474c507bb66c0e6e7c0249db286dc9cb526d10a257bfa3d810403159c1c5f9792c46ea0b93775596f9bef4fc23fe436782db50322570d01158405f4",
-          "sha256": "d8b43160261df413ea314e4839670555fd39e5b551392fdbe9a67edcbb5faece",
-          "sha1": "f21d3d6b2812d205876448ca344c556c25ba9d27",
-          "md5": "2841f0fc07449a6511cb8eed58a6ab3"
+          "size": 1774908,
+          "sha512": "af852917338f62bef58d7528176a6548835c8f805a2585218a9cf7d9f8f6d9aa0986744b4ae81a98d980ed2d449846a5ee8776d93ac37f0e124ee2780c5d33ec",
+          "sha256": "9c05aa9e745f7944f45d7377b8982fed470af3d56297c9d682820020d51d3946",
+          "sha1": "830aa6deb5067b340669b3fcf9f655a1910b048d",
+          "md5": "c027ce57aabac42510e43bf58a5679e0"
         }
       ]
     }
