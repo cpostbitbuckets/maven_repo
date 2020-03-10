@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "g7ztgdxourhstpy5degekxybpe"
+      "buildId": "c7hdmovlanbtrowhcb7v43rdzq"
     }
   },
   "variants": [
@@ -243,11 +243,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1775145,
-          "sha512": "d134cb4a6fcc1ef89a704e4b1e41ffc8b3988cbd9d0e0934d51cb4a17b3dfe2a63762703f658e64b735095bea98c8ce3fdafe195adbdd54aca12d84cdbe5ff19",
-          "sha256": "6f5e6bc485332a6e5a9a380706a142587310ef06cec77e5c70b29c8a8f6e6c9e",
-          "sha1": "2e5774f505667cdb721298bf6416cf4abe9a54ca",
-          "md5": "96125d8c2ae128e8cd226c640e03f4"
+          "size": 1775233,
+          "sha512": "7b95d599eabc91b136eb1bcf3e9d08a0a4984b6fe82ccc07578b279262d27163d31349bb3f3729df87322414e36df2c80f7430f34e561a65335b441afd2f30c1",
+          "sha256": "d253eb8f42f1b99cb6f9111a9aa7f9b11c634ac225e8d7038a17b0e929348354",
+          "sha1": "e9b1f29f8844f1e7140f16d2182104a71d3f5d8b",
+          "md5": "e940c9d713983c50865314d2f61a1704"
         }
       ]
     },
@@ -493,11 +493,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1775145,
-          "sha512": "d134cb4a6fcc1ef89a704e4b1e41ffc8b3988cbd9d0e0934d51cb4a17b3dfe2a63762703f658e64b735095bea98c8ce3fdafe195adbdd54aca12d84cdbe5ff19",
-          "sha256": "6f5e6bc485332a6e5a9a380706a142587310ef06cec77e5c70b29c8a8f6e6c9e",
-          "sha1": "2e5774f505667cdb721298bf6416cf4abe9a54ca",
-          "md5": "96125d8c2ae128e8cd226c640e03f4"
+          "size": 1775233,
+          "sha512": "7b95d599eabc91b136eb1bcf3e9d08a0a4984b6fe82ccc07578b279262d27163d31349bb3f3729df87322414e36df2c80f7430f34e561a65335b441afd2f30c1",
+          "sha256": "d253eb8f42f1b99cb6f9111a9aa7f9b11c634ac225e8d7038a17b0e929348354",
+          "sha1": "e9b1f29f8844f1e7140f16d2182104a71d3f5d8b",
+          "md5": "e940c9d713983c50865314d2f61a1704"
         }
       ]
     }
