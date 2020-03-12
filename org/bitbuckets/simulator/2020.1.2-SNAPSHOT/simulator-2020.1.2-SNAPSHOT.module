@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "c7hdmovlanbtrowhcb7v43rdzq"
+      "buildId": "xe3wuxd6vjhftpepjhyrikieca"
     }
   },
   "variants": [
@@ -124,10 +124,17 @@
           }
         },
         {
-          "group": "org.slf4j",
-          "module": "slf4j-simple",
+          "group": "ch.qos.logback",
+          "module": "logback-classic",
           "version": {
-            "requires": "1.7.25"
+            "requires": "1.2.3"
+          }
+        },
+        {
+          "group": "ch.qos.logback",
+          "module": "logback-core",
+          "version": {
+            "requires": "1.2.3"
           }
         },
         {
@@ -243,11 +250,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1775233,
-          "sha512": "7b95d599eabc91b136eb1bcf3e9d08a0a4984b6fe82ccc07578b279262d27163d31349bb3f3729df87322414e36df2c80f7430f34e561a65335b441afd2f30c1",
-          "sha256": "d253eb8f42f1b99cb6f9111a9aa7f9b11c634ac225e8d7038a17b0e929348354",
-          "sha1": "e9b1f29f8844f1e7140f16d2182104a71d3f5d8b",
-          "md5": "e940c9d713983c50865314d2f61a1704"
+          "size": 1781571,
+          "sha512": "c9a353cde192f14b5e9d347241361012b86dc94f1eff0f69bbb1e50fc456f3d1dcf667bac00f00aacbcb18b4732544be242b97330da55b47960f0fdfbe245952",
+          "sha256": "b594879c107a5fd56b71e2f89e327ada6b6bfe7cb44fcc8baad7f5af3c4c89cc",
+          "sha1": "cc8f7cdbe458d12c7adc5b25cfa115168e1a91c6",
+          "md5": "3e4574361b05c33793117ce81008daf9"
         }
       ]
     },
@@ -374,10 +381,17 @@
           }
         },
         {
-          "group": "org.slf4j",
-          "module": "slf4j-simple",
+          "group": "ch.qos.logback",
+          "module": "logback-classic",
           "version": {
-            "requires": "1.7.25"
+            "requires": "1.2.3"
+          }
+        },
+        {
+          "group": "ch.qos.logback",
+          "module": "logback-core",
+          "version": {
+            "requires": "1.2.3"
           }
         },
         {
@@ -493,11 +507,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1775233,
-          "sha512": "7b95d599eabc91b136eb1bcf3e9d08a0a4984b6fe82ccc07578b279262d27163d31349bb3f3729df87322414e36df2c80f7430f34e561a65335b441afd2f30c1",
-          "sha256": "d253eb8f42f1b99cb6f9111a9aa7f9b11c634ac225e8d7038a17b0e929348354",
-          "sha1": "e9b1f29f8844f1e7140f16d2182104a71d3f5d8b",
-          "md5": "e940c9d713983c50865314d2f61a1704"
+          "size": 1781571,
+          "sha512": "c9a353cde192f14b5e9d347241361012b86dc94f1eff0f69bbb1e50fc456f3d1dcf667bac00f00aacbcb18b4732544be242b97330da55b47960f0fdfbe245952",
+          "sha256": "b594879c107a5fd56b71e2f89e327ada6b6bfe7cb44fcc8baad7f5af3c4c89cc",
+          "sha1": "cc8f7cdbe458d12c7adc5b25cfa115168e1a91c6",
+          "md5": "3e4574361b05c33793117ce81008daf9"
         }
       ]
     }
