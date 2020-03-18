@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "xe3wuxd6vjhftpepjhyrikieca"
+      "buildId": "psxpusicsbe3jn66ovgyw2p4eu"
     }
   },
   "variants": [
@@ -250,11 +250,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1781571,
-          "sha512": "c9a353cde192f14b5e9d347241361012b86dc94f1eff0f69bbb1e50fc456f3d1dcf667bac00f00aacbcb18b4732544be242b97330da55b47960f0fdfbe245952",
-          "sha256": "b594879c107a5fd56b71e2f89e327ada6b6bfe7cb44fcc8baad7f5af3c4c89cc",
-          "sha1": "cc8f7cdbe458d12c7adc5b25cfa115168e1a91c6",
-          "md5": "3e4574361b05c33793117ce81008daf9"
+          "size": 1783435,
+          "sha512": "d6d4a4d54021caa7a9e6b084ac83a35e992aa15e9d8bfe8be4a2d8f2e13aa09df79bef1388d89687d418a1548773649154e0f720af18d6efb09eb07b859e43d1",
+          "sha256": "af44ab30d8161229710d254bb1def204e99bc941228fa9bf10b88da27fda43ae",
+          "sha1": "f76ad4875a57aee87160b1eb3a9426b0be5d2033",
+          "md5": "ba49ab36653ceaef5ec6f176fd4c1986"
         }
       ]
     },
@@ -507,11 +507,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1781571,
-          "sha512": "c9a353cde192f14b5e9d347241361012b86dc94f1eff0f69bbb1e50fc456f3d1dcf667bac00f00aacbcb18b4732544be242b97330da55b47960f0fdfbe245952",
-          "sha256": "b594879c107a5fd56b71e2f89e327ada6b6bfe7cb44fcc8baad7f5af3c4c89cc",
-          "sha1": "cc8f7cdbe458d12c7adc5b25cfa115168e1a91c6",
-          "md5": "3e4574361b05c33793117ce81008daf9"
+          "size": 1783435,
+          "sha512": "d6d4a4d54021caa7a9e6b084ac83a35e992aa15e9d8bfe8be4a2d8f2e13aa09df79bef1388d89687d418a1548773649154e0f720af18d6efb09eb07b859e43d1",
+          "sha256": "af44ab30d8161229710d254bb1def204e99bc941228fa9bf10b88da27fda43ae",
+          "sha1": "f76ad4875a57aee87160b1eb3a9426b0be5d2033",
+          "md5": "ba49ab36653ceaef5ec6f176fd4c1986"
         }
       ]
     }
