@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "psxpusicsbe3jn66ovgyw2p4eu"
+      "buildId": "myx6ueauibgbhorqt2t4rbiigy"
     }
   },
   "variants": [
@@ -250,11 +250,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1783435,
-          "sha512": "d6d4a4d54021caa7a9e6b084ac83a35e992aa15e9d8bfe8be4a2d8f2e13aa09df79bef1388d89687d418a1548773649154e0f720af18d6efb09eb07b859e43d1",
-          "sha256": "af44ab30d8161229710d254bb1def204e99bc941228fa9bf10b88da27fda43ae",
-          "sha1": "f76ad4875a57aee87160b1eb3a9426b0be5d2033",
-          "md5": "ba49ab36653ceaef5ec6f176fd4c1986"
+          "size": 1787627,
+          "sha512": "a3b30a7f42b8cbbbba634ade3d42d182669f5dff4db10bd21a2b982e0ed94967683c21284adb9ec88e154354c2af49a39944189894fdf75c0ee3703e3da79a92",
+          "sha256": "ae552f4d7f219227a9e2a2366389348769ce4c52a4d4c993a1ea8cb462480eaa",
+          "sha1": "5a990373e7e784e04d93f1a371ce4ffa25ed108f",
+          "md5": "6400381da1e07bf16e608d43e1fb2fea"
         }
       ]
     },
@@ -280,6 +280,13 @@
           "module": "grpc-stub",
           "version": {
             "requires": "1.25.0"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-math3",
+          "version": {
+            "requires": "3.6.1"
           }
         },
         {
@@ -507,11 +514,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1783435,
-          "sha512": "d6d4a4d54021caa7a9e6b084ac83a35e992aa15e9d8bfe8be4a2d8f2e13aa09df79bef1388d89687d418a1548773649154e0f720af18d6efb09eb07b859e43d1",
-          "sha256": "af44ab30d8161229710d254bb1def204e99bc941228fa9bf10b88da27fda43ae",
-          "sha1": "f76ad4875a57aee87160b1eb3a9426b0be5d2033",
-          "md5": "ba49ab36653ceaef5ec6f176fd4c1986"
+          "size": 1787627,
+          "sha512": "a3b30a7f42b8cbbbba634ade3d42d182669f5dff4db10bd21a2b982e0ed94967683c21284adb9ec88e154354c2af49a39944189894fdf75c0ee3703e3da79a92",
+          "sha256": "ae552f4d7f219227a9e2a2366389348769ce4c52a4d4c993a1ea8cb462480eaa",
+          "sha1": "5a990373e7e784e04d93f1a371ce4ffa25ed108f",
+          "md5": "6400381da1e07bf16e608d43e1fb2fea"
         }
       ]
     }
