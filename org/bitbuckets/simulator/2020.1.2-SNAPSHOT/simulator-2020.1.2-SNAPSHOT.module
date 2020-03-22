@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "myx6ueauibgbhorqt2t4rbiigy"
+      "buildId": "duhf7duhznh4nczgcks4637tem"
     }
   },
   "variants": [
@@ -250,11 +250,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1787627,
-          "sha512": "a3b30a7f42b8cbbbba634ade3d42d182669f5dff4db10bd21a2b982e0ed94967683c21284adb9ec88e154354c2af49a39944189894fdf75c0ee3703e3da79a92",
-          "sha256": "ae552f4d7f219227a9e2a2366389348769ce4c52a4d4c993a1ea8cb462480eaa",
-          "sha1": "5a990373e7e784e04d93f1a371ce4ffa25ed108f",
-          "md5": "6400381da1e07bf16e608d43e1fb2fea"
+          "size": 1788791,
+          "sha512": "d8bf8db076d785b175ad990245f3992aadc1c3c8a55923ee09d4b539c535f2a9374eec20b682d9f5faecfb9f1cd0a8b772e090eca6627cd616c890619374f5dc",
+          "sha256": "17f9d7e9b4da7f88a0b56910b45f2f51388d7cc15a30902baa5dc67a355c1228",
+          "sha1": "46ccba4a6afd67198e2aeb974d97a659bc92b722",
+          "md5": "6d74ac65431b941bcb6e0b5961b1f958"
         }
       ]
     },
@@ -514,11 +514,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1787627,
-          "sha512": "a3b30a7f42b8cbbbba634ade3d42d182669f5dff4db10bd21a2b982e0ed94967683c21284adb9ec88e154354c2af49a39944189894fdf75c0ee3703e3da79a92",
-          "sha256": "ae552f4d7f219227a9e2a2366389348769ce4c52a4d4c993a1ea8cb462480eaa",
-          "sha1": "5a990373e7e784e04d93f1a371ce4ffa25ed108f",
-          "md5": "6400381da1e07bf16e608d43e1fb2fea"
+          "size": 1788791,
+          "sha512": "d8bf8db076d785b175ad990245f3992aadc1c3c8a55923ee09d4b539c535f2a9374eec20b682d9f5faecfb9f1cd0a8b772e090eca6627cd616c890619374f5dc",
+          "sha256": "17f9d7e9b4da7f88a0b56910b45f2f51388d7cc15a30902baa5dc67a355c1228",
+          "sha1": "46ccba4a6afd67198e2aeb974d97a659bc92b722",
+          "md5": "6d74ac65431b941bcb6e0b5961b1f958"
         }
       ]
     }
