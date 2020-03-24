@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "duhf7duhznh4nczgcks4637tem"
+      "buildId": "bulumchuojgi5dcn3bvj5udn5u"
     }
   },
   "variants": [
@@ -250,11 +250,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1788791,
-          "sha512": "d8bf8db076d785b175ad990245f3992aadc1c3c8a55923ee09d4b539c535f2a9374eec20b682d9f5faecfb9f1cd0a8b772e090eca6627cd616c890619374f5dc",
-          "sha256": "17f9d7e9b4da7f88a0b56910b45f2f51388d7cc15a30902baa5dc67a355c1228",
-          "sha1": "46ccba4a6afd67198e2aeb974d97a659bc92b722",
-          "md5": "6d74ac65431b941bcb6e0b5961b1f958"
+          "size": 1788626,
+          "sha512": "b1d7505956c36a03e80ab3c1f414f17ce68cd0afba5b04a006ad1ab912c53d41d74647e2f70d9b7dd3865bdd21a5b7506e2113f0baf52cfb584970a628f965fe",
+          "sha256": "92655858f2ec01d3d57d5f7749d36d6af14bfd4f6b50a2caaa251fcae4fdea3c",
+          "sha1": "7e6de4ed2d0e725df6ce3acda90710b171f1130e",
+          "md5": "984238b219f72f0f883f0014ebcf40f2"
         }
       ]
     },
@@ -514,11 +514,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1788791,
-          "sha512": "d8bf8db076d785b175ad990245f3992aadc1c3c8a55923ee09d4b539c535f2a9374eec20b682d9f5faecfb9f1cd0a8b772e090eca6627cd616c890619374f5dc",
-          "sha256": "17f9d7e9b4da7f88a0b56910b45f2f51388d7cc15a30902baa5dc67a355c1228",
-          "sha1": "46ccba4a6afd67198e2aeb974d97a659bc92b722",
-          "md5": "6d74ac65431b941bcb6e0b5961b1f958"
+          "size": 1788626,
+          "sha512": "b1d7505956c36a03e80ab3c1f414f17ce68cd0afba5b04a006ad1ab912c53d41d74647e2f70d9b7dd3865bdd21a5b7506e2113f0baf52cfb584970a628f965fe",
+          "sha256": "92655858f2ec01d3d57d5f7749d36d6af14bfd4f6b50a2caaa251fcae4fdea3c",
+          "sha1": "7e6de4ed2d0e725df6ce3acda90710b171f1130e",
+          "md5": "984238b219f72f0f883f0014ebcf40f2"
         }
       ]
     }
