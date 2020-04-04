@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "bulumchuojgi5dcn3bvj5udn5u"
+      "buildId": "ll3jdzkswzcrnauqlvuvbndt4a"
     }
   },
   "variants": [
@@ -250,11 +250,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1788626,
-          "sha512": "b1d7505956c36a03e80ab3c1f414f17ce68cd0afba5b04a006ad1ab912c53d41d74647e2f70d9b7dd3865bdd21a5b7506e2113f0baf52cfb584970a628f965fe",
-          "sha256": "92655858f2ec01d3d57d5f7749d36d6af14bfd4f6b50a2caaa251fcae4fdea3c",
-          "sha1": "7e6de4ed2d0e725df6ce3acda90710b171f1130e",
-          "md5": "984238b219f72f0f883f0014ebcf40f2"
+          "size": 1791426,
+          "sha512": "92345d1c118b90e1a504ec1bf9f6a3b55c54f0081bfc0b3573df5ad06d563d614412bbc1eeb4441ad8ff20cf526ff4cf66c069350fb807c58c3adbb3e874eeb",
+          "sha256": "f13f0912082f6ede3980d3002502d8fd67822598203c4ca729800c4b14b7c9de",
+          "sha1": "e97ec277c77a38cccfa15531f80d7615ec3703da",
+          "md5": "865e82b0279f1467ff67bec2f0c5096f"
         }
       ]
     },
@@ -514,11 +514,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1788626,
-          "sha512": "b1d7505956c36a03e80ab3c1f414f17ce68cd0afba5b04a006ad1ab912c53d41d74647e2f70d9b7dd3865bdd21a5b7506e2113f0baf52cfb584970a628f965fe",
-          "sha256": "92655858f2ec01d3d57d5f7749d36d6af14bfd4f6b50a2caaa251fcae4fdea3c",
-          "sha1": "7e6de4ed2d0e725df6ce3acda90710b171f1130e",
-          "md5": "984238b219f72f0f883f0014ebcf40f2"
+          "size": 1791426,
+          "sha512": "92345d1c118b90e1a504ec1bf9f6a3b55c54f0081bfc0b3573df5ad06d563d614412bbc1eeb4441ad8ff20cf526ff4cf66c069350fb807c58c3adbb3e874eeb",
+          "sha256": "f13f0912082f6ede3980d3002502d8fd67822598203c4ca729800c4b14b7c9de",
+          "sha1": "e97ec277c77a38cccfa15531f80d7615ec3703da",
+          "md5": "865e82b0279f1467ff67bec2f0c5096f"
         }
       ]
     }
