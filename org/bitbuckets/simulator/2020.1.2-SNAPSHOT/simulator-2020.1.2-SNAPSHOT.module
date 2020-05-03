@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "ykrgx2ui7zbmzmwqdd35mjazq4"
+      "buildId": "k4y5ko3zyrettkhrfcqdcdo3sy"
     }
   },
   "variants": [
@@ -141,7 +141,7 @@
           "group": "io.grpc",
           "module": "grpc-protobuf",
           "version": {
-            "requires": "1.25.0"
+            "requires": "1.29.0"
           }
         },
         {
@@ -185,11 +185,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1780086,
-          "sha512": "34d58a2b86832bce69d13c85675e5fa35ef1cf83f3374ecaa0a1c7d3020140e5b5c5b3853f48bb2f1b494b2c1c18d9ea6d1c0e393d4c82442e02838793acbeae",
-          "sha256": "3f8ecd298e1f8c1af33fff08dd3b1485fb7e23a7add7e19a6f266d904b7b6886",
-          "sha1": "7e9f18b027eaa18c80d90c41522b6860f86d12aa",
-          "md5": "a877f570b7b52cc7aaa8c33c8ecaa104"
+          "size": 1784811,
+          "sha512": "480b58762a43a8a7446ed5ae7732fd7b932628b923c514d4b69122d324bab7699ec0dfbc6d10476e963a56597cc1b8503784ad9b34f0ca7412a13534d611f3a6",
+          "sha256": "9326f4314a8efc49375ef647b9300dafa99fb1e0ac238c9e10c51006eeff5269",
+          "sha1": "90cbed7482c758722537f76fcd05a2d4dd43adea",
+          "md5": "3142023aa86d48abe9a5199b1de2c523"
         }
       ]
     },
@@ -207,14 +207,14 @@
           "group": "io.grpc",
           "module": "grpc-netty-shaded",
           "version": {
-            "requires": "1.25.0"
+            "requires": "1.29.0"
           }
         },
         {
           "group": "io.grpc",
           "module": "grpc-stub",
           "version": {
-            "requires": "1.25.0"
+            "requires": "1.29.0"
           }
         },
         {
@@ -340,7 +340,7 @@
           "group": "io.grpc",
           "module": "grpc-protobuf",
           "version": {
-            "requires": "1.25.0"
+            "requires": "1.29.0"
           }
         },
         {
@@ -384,11 +384,11 @@
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1780086,
-          "sha512": "34d58a2b86832bce69d13c85675e5fa35ef1cf83f3374ecaa0a1c7d3020140e5b5c5b3853f48bb2f1b494b2c1c18d9ea6d1c0e393d4c82442e02838793acbeae",
-          "sha256": "3f8ecd298e1f8c1af33fff08dd3b1485fb7e23a7add7e19a6f266d904b7b6886",
-          "sha1": "7e9f18b027eaa18c80d90c41522b6860f86d12aa",
-          "md5": "a877f570b7b52cc7aaa8c33c8ecaa104"
+          "size": 1784811,
+          "sha512": "480b58762a43a8a7446ed5ae7732fd7b932628b923c514d4b69122d324bab7699ec0dfbc6d10476e963a56597cc1b8503784ad9b34f0ca7412a13534d611f3a6",
+          "sha256": "9326f4314a8efc49375ef647b9300dafa99fb1e0ac238c9e10c51006eeff5269",
+          "sha1": "90cbed7482c758722537f76fcd05a2d4dd43adea",
+          "md5": "3142023aa86d48abe9a5199b1de2c523"
         }
       ]
     }
