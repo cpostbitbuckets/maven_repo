@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "5teec7tylvgebbhprvmfszhil4"
+      "buildId": "sevxt4rxxbchxmvjwmrnhmihbi"
     }
   },
   "variants": [
@@ -179,82 +179,17 @@
               "classifier": "no_aop"
             }
           }
-        },
-        {
-          "group": "uk.co.electronstudio.sdl2gdx",
-          "module": "sdl2gdx",
-          "version": {
-            "requires": "1.0.3"
-          }
-        },
-        {
-          "group": "com.badlogicgames.gdx",
-          "module": "gdx",
-          "version": {
-            "requires": "1.9.10"
-          }
-        },
-        {
-          "group": "com.badlogicgames.gdx",
-          "module": "gdx-box2d",
-          "version": {
-            "requires": "1.9.10"
-          }
-        },
-        {
-          "group": "com.badlogicgames.gdx",
-          "module": "gdx-controllers",
-          "version": {
-            "requires": "1.9.10"
-          }
-        },
-        {
-          "group": "com.badlogicgames.gdx",
-          "module": "gdx-backend-lwjgl",
-          "version": {
-            "requires": "1.9.10"
-          }
-        },
-        {
-          "group": "com.badlogicgames.gdx",
-          "module": "gdx-platform",
-          "version": {
-            "requires": "1.9.10"
-          },
-          "thirdPartyCompatibility": {
-            "artifactSelector": {
-              "name": "gdx-platform",
-              "type": "jar",
-              "extension": "jar",
-              "classifier": "natives-desktop"
-            }
-          }
-        },
-        {
-          "group": "com.badlogicgames.gdx",
-          "module": "gdx-box2d-platform",
-          "version": {
-            "requires": "1.9.10"
-          },
-          "thirdPartyCompatibility": {
-            "artifactSelector": {
-              "name": "gdx-box2d-platform",
-              "type": "jar",
-              "extension": "jar",
-              "classifier": "natives-desktop"
-            }
-          }
         }
       ],
       "files": [
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1791426,
-          "sha512": "266175b2272dedb3cc32c079541d43a4549ab08bdc7d934344bb06e55afe7b90680c12faf21b8c400a1b9b6a5127be5e0b2266d3cf6eae1f463a3ddabb3ce06",
-          "sha256": "dffd04f409a2b3772e49c6db68d39576408ea4043891c0cf4542c54a4f873305",
-          "sha1": "55f9de1ef85deba9defd74bd003928807eff3caf",
-          "md5": "cf2a1168618b5acb387235a2a4aeb4f3"
+          "size": 1780086,
+          "sha512": "435ed13530a9b540d9adf85b1d1a22dc5b81b52894c77ecc92c82c1bb2ba1cb5c483baf8788c1ec63d4c0ab8808c86587e5c745d3e925897b5b829cca12c19be",
+          "sha256": "ce18268ba08fb893fbd9fff4ec58b444dbacdc5da848bf1584be1ec93079287b",
+          "sha1": "e35e33721399e491c484eca5090e07ed060ad679",
+          "md5": "f184a711e63aa24df6ccd4f34b35811a"
         }
       ]
     },
@@ -443,82 +378,17 @@
               "classifier": "no_aop"
             }
           }
-        },
-        {
-          "group": "uk.co.electronstudio.sdl2gdx",
-          "module": "sdl2gdx",
-          "version": {
-            "requires": "1.0.3"
-          }
-        },
-        {
-          "group": "com.badlogicgames.gdx",
-          "module": "gdx",
-          "version": {
-            "requires": "1.9.10"
-          }
-        },
-        {
-          "group": "com.badlogicgames.gdx",
-          "module": "gdx-box2d",
-          "version": {
-            "requires": "1.9.10"
-          }
-        },
-        {
-          "group": "com.badlogicgames.gdx",
-          "module": "gdx-controllers",
-          "version": {
-            "requires": "1.9.10"
-          }
-        },
-        {
-          "group": "com.badlogicgames.gdx",
-          "module": "gdx-backend-lwjgl",
-          "version": {
-            "requires": "1.9.10"
-          }
-        },
-        {
-          "group": "com.badlogicgames.gdx",
-          "module": "gdx-platform",
-          "version": {
-            "requires": "1.9.10"
-          },
-          "thirdPartyCompatibility": {
-            "artifactSelector": {
-              "name": "gdx-platform",
-              "type": "jar",
-              "extension": "jar",
-              "classifier": "natives-desktop"
-            }
-          }
-        },
-        {
-          "group": "com.badlogicgames.gdx",
-          "module": "gdx-box2d-platform",
-          "version": {
-            "requires": "1.9.10"
-          },
-          "thirdPartyCompatibility": {
-            "artifactSelector": {
-              "name": "gdx-box2d-platform",
-              "type": "jar",
-              "extension": "jar",
-              "classifier": "natives-desktop"
-            }
-          }
         }
       ],
       "files": [
         {
           "name": "simulator-2020.1.2-SNAPSHOT.jar",
           "url": "simulator-2020.1.2-SNAPSHOT.jar",
-          "size": 1791426,
-          "sha512": "266175b2272dedb3cc32c079541d43a4549ab08bdc7d934344bb06e55afe7b90680c12faf21b8c400a1b9b6a5127be5e0b2266d3cf6eae1f463a3ddabb3ce06",
-          "sha256": "dffd04f409a2b3772e49c6db68d39576408ea4043891c0cf4542c54a4f873305",
-          "sha1": "55f9de1ef85deba9defd74bd003928807eff3caf",
-          "md5": "cf2a1168618b5acb387235a2a4aeb4f3"
+          "size": 1780086,
+          "sha512": "435ed13530a9b540d9adf85b1d1a22dc5b81b52894c77ecc92c82c1bb2ba1cb5c483baf8788c1ec63d4c0ab8808c86587e5c745d3e925897b5b829cca12c19be",
+          "sha256": "ce18268ba08fb893fbd9fff4ec58b444dbacdc5da848bf1584be1ec93079287b",
+          "sha1": "e35e33721399e491c484eca5090e07ed060ad679",
+          "md5": "f184a711e63aa24df6ccd4f34b35811a"
         }
       ]
     }

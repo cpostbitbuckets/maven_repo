@@ -139,50 +139,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>uk.co.electronstudio.sdl2gdx</groupId>
-      <artifactId>sdl2gdx</artifactId>
-      <version>1.0.3</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.badlogicgames.gdx</groupId>
-      <artifactId>gdx</artifactId>
-      <version>1.9.10</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.badlogicgames.gdx</groupId>
-      <artifactId>gdx-box2d</artifactId>
-      <version>1.9.10</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.badlogicgames.gdx</groupId>
-      <artifactId>gdx-controllers</artifactId>
-      <version>1.9.10</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.badlogicgames.gdx</groupId>
-      <artifactId>gdx-backend-lwjgl</artifactId>
-      <version>1.9.10</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.badlogicgames.gdx</groupId>
-      <artifactId>gdx-platform</artifactId>
-      <version>1.9.10</version>
-      <classifier>natives-desktop</classifier>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.badlogicgames.gdx</groupId>
-      <artifactId>gdx-box2d-platform</artifactId>
-      <version>1.9.10</version>
-      <classifier>natives-desktop</classifier>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>io.grpc</groupId>
       <artifactId>grpc-netty-shaded</artifactId>
       <version>1.25.0</version>
